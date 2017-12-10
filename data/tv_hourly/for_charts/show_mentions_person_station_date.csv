@@ -1,0 +1,1627 @@
+date,station,name,count_show_mentions_person_station_date
+2017-10-01T00:00:00Z,CNN,glenn thrush,0
+2017-10-01T00:00:00Z,CNN,harvey weinstein,0
+2017-10-01T00:00:00Z,CNN,roy moore,1
+2017-10-01T00:00:00Z,Fox News,harvey weinstein,0
+2017-10-01T00:00:00Z,Fox News,roy moore,5
+2017-10-01T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-01T00:00:00Z,MSNBC,harvey weinstein,0
+2017-10-01T00:00:00Z,MSNBC,mark halperin,0
+2017-10-01T00:00:00Z,MSNBC,matt lauer,0
+2017-10-01T00:00:00Z,MSNBC,roy moore,4
+2017-10-01T00:00:00Z,MSNBC,ruben kihuen,0
+2017-10-02T00:00:00Z,CNN,glenn thrush,0
+2017-10-02T00:00:00Z,CNN,harvey weinstein,0
+2017-10-02T00:00:00Z,CNN,roy moore,0
+2017-10-02T00:00:00Z,Fox News,harvey weinstein,0
+2017-10-02T00:00:00Z,Fox News,roy moore,1
+2017-10-02T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-02T00:00:00Z,MSNBC,harvey weinstein,0
+2017-10-02T00:00:00Z,MSNBC,mark halperin,0
+2017-10-02T00:00:00Z,MSNBC,matt lauer,2
+2017-10-02T00:00:00Z,MSNBC,roy moore,0
+2017-10-02T00:00:00Z,MSNBC,ruben kihuen,1
+2017-10-03T00:00:00Z,CNN,glenn thrush,0
+2017-10-03T00:00:00Z,CNN,harvey weinstein,0
+2017-10-03T00:00:00Z,CNN,roy moore,0
+2017-10-03T00:00:00Z,Fox News,harvey weinstein,0
+2017-10-03T00:00:00Z,Fox News,roy moore,0
+2017-10-03T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-03T00:00:00Z,MSNBC,harvey weinstein,0
+2017-10-03T00:00:00Z,MSNBC,mark halperin,1
+2017-10-03T00:00:00Z,MSNBC,matt lauer,0
+2017-10-03T00:00:00Z,MSNBC,roy moore,0
+2017-10-03T00:00:00Z,MSNBC,ruben kihuen,0
+2017-10-04T00:00:00Z,CNN,glenn thrush,0
+2017-10-04T00:00:00Z,CNN,harvey weinstein,0
+2017-10-04T00:00:00Z,CNN,roy moore,0
+2017-10-04T00:00:00Z,Fox News,harvey weinstein,0
+2017-10-04T00:00:00Z,Fox News,roy moore,0
+2017-10-04T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-04T00:00:00Z,MSNBC,harvey weinstein,0
+2017-10-04T00:00:00Z,MSNBC,mark halperin,0
+2017-10-04T00:00:00Z,MSNBC,matt lauer,0
+2017-10-04T00:00:00Z,MSNBC,roy moore,0
+2017-10-04T00:00:00Z,MSNBC,ruben kihuen,0
+2017-10-05T00:00:00Z,CNN,glenn thrush,1
+2017-10-05T00:00:00Z,CNN,harvey weinstein,1
+2017-10-05T00:00:00Z,CNN,roy moore,0
+2017-10-05T00:00:00Z,Fox News,harvey weinstein,0
+2017-10-05T00:00:00Z,Fox News,roy moore,0
+2017-10-05T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-05T00:00:00Z,MSNBC,harvey weinstein,0
+2017-10-05T00:00:00Z,MSNBC,mark halperin,0
+2017-10-05T00:00:00Z,MSNBC,matt lauer,0
+2017-10-05T00:00:00Z,MSNBC,roy moore,3
+2017-10-05T00:00:00Z,MSNBC,ruben kihuen,0
+2017-10-06T00:00:00Z,CNN,glenn thrush,0
+2017-10-06T00:00:00Z,CNN,harvey weinstein,0
+2017-10-06T00:00:00Z,CNN,roy moore,1
+2017-10-06T00:00:00Z,Fox News,harvey weinstein,3
+2017-10-06T00:00:00Z,Fox News,roy moore,0
+2017-10-06T00:00:00Z,MSNBC,glenn thrush,1
+2017-10-06T00:00:00Z,MSNBC,harvey weinstein,5
+2017-10-06T00:00:00Z,MSNBC,mark halperin,0
+2017-10-06T00:00:00Z,MSNBC,matt lauer,0
+2017-10-06T00:00:00Z,MSNBC,roy moore,3
+2017-10-06T00:00:00Z,MSNBC,ruben kihuen,0
+2017-10-07T00:00:00Z,CNN,glenn thrush,0
+2017-10-07T00:00:00Z,CNN,harvey weinstein,1
+2017-10-07T00:00:00Z,CNN,roy moore,0
+2017-10-07T00:00:00Z,Fox News,harvey weinstein,5
+2017-10-07T00:00:00Z,Fox News,roy moore,0
+2017-10-07T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-07T00:00:00Z,MSNBC,harvey weinstein,1
+2017-10-07T00:00:00Z,MSNBC,mark halperin,0
+2017-10-07T00:00:00Z,MSNBC,matt lauer,3
+2017-10-07T00:00:00Z,MSNBC,roy moore,2
+2017-10-07T00:00:00Z,MSNBC,ruben kihuen,0
+2017-10-08T00:00:00Z,CNN,harvey weinstein,7
+2017-10-08T00:00:00Z,CNN,roy moore,0
+2017-10-08T00:00:00Z,Fox News,charlie rose,0
+2017-10-08T00:00:00Z,Fox News,harvey weinstein,4
+2017-10-08T00:00:00Z,Fox News,john conyers,0
+2017-10-08T00:00:00Z,MSNBC,al franken,0
+2017-10-08T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-08T00:00:00Z,MSNBC,harvey weinstein,4
+2017-10-08T00:00:00Z,MSNBC,mark halperin,0
+2017-10-08T00:00:00Z,MSNBC,roy moore,1
+2017-10-08T00:00:00Z,MSNBC,russell simmons,1
+2017-10-09T00:00:00Z,CNN,harvey weinstein,8
+2017-10-09T00:00:00Z,CNN,roy moore,1
+2017-10-09T00:00:00Z,Fox News,charlie rose,0
+2017-10-09T00:00:00Z,Fox News,harvey weinstein,5
+2017-10-09T00:00:00Z,Fox News,john conyers,0
+2017-10-09T00:00:00Z,MSNBC,al franken,1
+2017-10-09T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-09T00:00:00Z,MSNBC,harvey weinstein,11
+2017-10-09T00:00:00Z,MSNBC,mark halperin,0
+2017-10-09T00:00:00Z,MSNBC,roy moore,1
+2017-10-09T00:00:00Z,MSNBC,russell simmons,0
+2017-10-10T00:00:00Z,CNN,harvey weinstein,12
+2017-10-10T00:00:00Z,CNN,roy moore,1
+2017-10-10T00:00:00Z,Fox News,charlie rose,0
+2017-10-10T00:00:00Z,Fox News,harvey weinstein,12
+2017-10-10T00:00:00Z,Fox News,john conyers,0
+2017-10-10T00:00:00Z,MSNBC,al franken,0
+2017-10-10T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-10T00:00:00Z,MSNBC,harvey weinstein,10
+2017-10-10T00:00:00Z,MSNBC,mark halperin,0
+2017-10-10T00:00:00Z,MSNBC,roy moore,8
+2017-10-10T00:00:00Z,MSNBC,russell simmons,0
+2017-10-11T00:00:00Z,CNN,harvey weinstein,20
+2017-10-11T00:00:00Z,CNN,roy moore,1
+2017-10-11T00:00:00Z,Fox News,charlie rose,0
+2017-10-11T00:00:00Z,Fox News,harvey weinstein,19
+2017-10-11T00:00:00Z,Fox News,john conyers,0
+2017-10-11T00:00:00Z,MSNBC,al franken,0
+2017-10-11T00:00:00Z,MSNBC,glenn thrush,1
+2017-10-11T00:00:00Z,MSNBC,harvey weinstein,16
+2017-10-11T00:00:00Z,MSNBC,mark halperin,0
+2017-10-11T00:00:00Z,MSNBC,roy moore,4
+2017-10-11T00:00:00Z,MSNBC,russell simmons,0
+2017-10-12T00:00:00Z,CNN,harvey weinstein,7
+2017-10-12T00:00:00Z,CNN,roy moore,0
+2017-10-12T00:00:00Z,Fox News,charlie rose,0
+2017-10-12T00:00:00Z,Fox News,harvey weinstein,16
+2017-10-12T00:00:00Z,Fox News,john conyers,0
+2017-10-12T00:00:00Z,MSNBC,al franken,0
+2017-10-12T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-12T00:00:00Z,MSNBC,harvey weinstein,10
+2017-10-12T00:00:00Z,MSNBC,mark halperin,3
+2017-10-12T00:00:00Z,MSNBC,roy moore,1
+2017-10-12T00:00:00Z,MSNBC,russell simmons,0
+2017-10-13T00:00:00Z,CNN,harvey weinstein,6
+2017-10-13T00:00:00Z,CNN,roy moore,1
+2017-10-13T00:00:00Z,Fox News,charlie rose,1
+2017-10-13T00:00:00Z,Fox News,harvey weinstein,15
+2017-10-13T00:00:00Z,Fox News,john conyers,0
+2017-10-13T00:00:00Z,MSNBC,al franken,0
+2017-10-13T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-13T00:00:00Z,MSNBC,harvey weinstein,4
+2017-10-13T00:00:00Z,MSNBC,mark halperin,0
+2017-10-13T00:00:00Z,MSNBC,roy moore,2
+2017-10-13T00:00:00Z,MSNBC,russell simmons,0
+2017-10-14T00:00:00Z,CNN,harvey weinstein,10
+2017-10-14T00:00:00Z,CNN,roy moore,0
+2017-10-14T00:00:00Z,Fox News,charlie rose,0
+2017-10-14T00:00:00Z,Fox News,harvey weinstein,22
+2017-10-14T00:00:00Z,Fox News,john conyers,1
+2017-10-14T00:00:00Z,MSNBC,al franken,0
+2017-10-14T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-14T00:00:00Z,MSNBC,harvey weinstein,9
+2017-10-14T00:00:00Z,MSNBC,mark halperin,0
+2017-10-14T00:00:00Z,MSNBC,roy moore,4
+2017-10-14T00:00:00Z,MSNBC,russell simmons,0
+2017-10-15T00:00:00Z,CNN,al franken,0
+2017-10-15T00:00:00Z,CNN,harvey weinstein,4
+2017-10-15T00:00:00Z,CNN,roy moore,1
+2017-10-15T00:00:00Z,Fox News,al franken,0
+2017-10-15T00:00:00Z,Fox News,harvey weinstein,17
+2017-10-15T00:00:00Z,Fox News,roy moore,0
+2017-10-15T00:00:00Z,MSNBC,al franken,1
+2017-10-15T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-15T00:00:00Z,MSNBC,harvey weinstein,8
+2017-10-15T00:00:00Z,MSNBC,mark halperin,0
+2017-10-15T00:00:00Z,MSNBC,roy moore,1
+2017-10-16T00:00:00Z,CNN,al franken,0
+2017-10-16T00:00:00Z,CNN,harvey weinstein,5
+2017-10-16T00:00:00Z,CNN,roy moore,2
+2017-10-16T00:00:00Z,Fox News,al franken,0
+2017-10-16T00:00:00Z,Fox News,harvey weinstein,10
+2017-10-16T00:00:00Z,Fox News,roy moore,2
+2017-10-16T00:00:00Z,MSNBC,al franken,1
+2017-10-16T00:00:00Z,MSNBC,glenn thrush,1
+2017-10-16T00:00:00Z,MSNBC,harvey weinstein,7
+2017-10-16T00:00:00Z,MSNBC,mark halperin,2
+2017-10-16T00:00:00Z,MSNBC,roy moore,3
+2017-10-17T00:00:00Z,CNN,al franken,0
+2017-10-17T00:00:00Z,CNN,harvey weinstein,5
+2017-10-17T00:00:00Z,CNN,roy moore,0
+2017-10-17T00:00:00Z,Fox News,al franken,0
+2017-10-17T00:00:00Z,Fox News,harvey weinstein,8
+2017-10-17T00:00:00Z,Fox News,roy moore,1
+2017-10-17T00:00:00Z,MSNBC,al franken,0
+2017-10-17T00:00:00Z,MSNBC,glenn thrush,1
+2017-10-17T00:00:00Z,MSNBC,harvey weinstein,4
+2017-10-17T00:00:00Z,MSNBC,mark halperin,0
+2017-10-17T00:00:00Z,MSNBC,roy moore,0
+2017-10-18T00:00:00Z,CNN,al franken,2
+2017-10-18T00:00:00Z,CNN,harvey weinstein,2
+2017-10-18T00:00:00Z,CNN,roy moore,0
+2017-10-18T00:00:00Z,Fox News,al franken,3
+2017-10-18T00:00:00Z,Fox News,harvey weinstein,7
+2017-10-18T00:00:00Z,Fox News,roy moore,2
+2017-10-18T00:00:00Z,MSNBC,al franken,3
+2017-10-18T00:00:00Z,MSNBC,glenn thrush,1
+2017-10-18T00:00:00Z,MSNBC,harvey weinstein,4
+2017-10-18T00:00:00Z,MSNBC,mark halperin,2
+2017-10-18T00:00:00Z,MSNBC,roy moore,7
+2017-10-19T00:00:00Z,CNN,al franken,1
+2017-10-19T00:00:00Z,CNN,harvey weinstein,2
+2017-10-19T00:00:00Z,CNN,roy moore,0
+2017-10-19T00:00:00Z,Fox News,al franken,0
+2017-10-19T00:00:00Z,Fox News,harvey weinstein,2
+2017-10-19T00:00:00Z,Fox News,roy moore,0
+2017-10-19T00:00:00Z,MSNBC,al franken,3
+2017-10-19T00:00:00Z,MSNBC,glenn thrush,1
+2017-10-19T00:00:00Z,MSNBC,harvey weinstein,2
+2017-10-19T00:00:00Z,MSNBC,mark halperin,1
+2017-10-19T00:00:00Z,MSNBC,roy moore,3
+2017-10-20T00:00:00Z,CNN,al franken,0
+2017-10-20T00:00:00Z,CNN,harvey weinstein,2
+2017-10-20T00:00:00Z,CNN,roy moore,1
+2017-10-20T00:00:00Z,Fox News,al franken,0
+2017-10-20T00:00:00Z,Fox News,harvey weinstein,5
+2017-10-20T00:00:00Z,Fox News,roy moore,3
+2017-10-20T00:00:00Z,MSNBC,al franken,0
+2017-10-20T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-20T00:00:00Z,MSNBC,harvey weinstein,5
+2017-10-20T00:00:00Z,MSNBC,mark halperin,1
+2017-10-20T00:00:00Z,MSNBC,roy moore,3
+2017-10-21T00:00:00Z,CNN,al franken,0
+2017-10-21T00:00:00Z,CNN,harvey weinstein,3
+2017-10-21T00:00:00Z,CNN,roy moore,1
+2017-10-21T00:00:00Z,Fox News,al franken,1
+2017-10-21T00:00:00Z,Fox News,harvey weinstein,3
+2017-10-21T00:00:00Z,Fox News,roy moore,0
+2017-10-21T00:00:00Z,MSNBC,al franken,0
+2017-10-21T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-21T00:00:00Z,MSNBC,harvey weinstein,1
+2017-10-21T00:00:00Z,MSNBC,mark halperin,0
+2017-10-21T00:00:00Z,MSNBC,roy moore,0
+2017-10-22T00:00:00Z,CNN,harvey weinstein,6
+2017-10-22T00:00:00Z,CNN,james toback,0
+2017-10-22T00:00:00Z,CNN,mark halperin,0
+2017-10-22T00:00:00Z,CNN,roy moore,1
+2017-10-22T00:00:00Z,CNN,trent franks,0
+2017-10-22T00:00:00Z,Fox News,al franken,1
+2017-10-22T00:00:00Z,Fox News,harvey weinstein,4
+2017-10-22T00:00:00Z,Fox News,john conyers,0
+2017-10-22T00:00:00Z,Fox News,mark halperin,0
+2017-10-22T00:00:00Z,Fox News,matt lauer,0
+2017-10-22T00:00:00Z,Fox News,roy moore,1
+2017-10-22T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-22T00:00:00Z,MSNBC,harvey weinstein,6
+2017-10-22T00:00:00Z,MSNBC,james toback,0
+2017-10-22T00:00:00Z,MSNBC,mark halperin,0
+2017-10-22T00:00:00Z,MSNBC,matt lauer,0
+2017-10-22T00:00:00Z,MSNBC,roy moore,1
+2017-10-23T00:00:00Z,CNN,harvey weinstein,3
+2017-10-23T00:00:00Z,CNN,james toback,0
+2017-10-23T00:00:00Z,CNN,mark halperin,0
+2017-10-23T00:00:00Z,CNN,roy moore,1
+2017-10-23T00:00:00Z,CNN,trent franks,0
+2017-10-23T00:00:00Z,Fox News,al franken,0
+2017-10-23T00:00:00Z,Fox News,harvey weinstein,2
+2017-10-23T00:00:00Z,Fox News,john conyers,0
+2017-10-23T00:00:00Z,Fox News,mark halperin,0
+2017-10-23T00:00:00Z,Fox News,matt lauer,0
+2017-10-23T00:00:00Z,Fox News,roy moore,1
+2017-10-23T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-23T00:00:00Z,MSNBC,harvey weinstein,4
+2017-10-23T00:00:00Z,MSNBC,james toback,1
+2017-10-23T00:00:00Z,MSNBC,mark halperin,2
+2017-10-23T00:00:00Z,MSNBC,matt lauer,0
+2017-10-23T00:00:00Z,MSNBC,roy moore,2
+2017-10-24T00:00:00Z,CNN,harvey weinstein,6
+2017-10-24T00:00:00Z,CNN,james toback,0
+2017-10-24T00:00:00Z,CNN,mark halperin,0
+2017-10-24T00:00:00Z,CNN,roy moore,2
+2017-10-24T00:00:00Z,CNN,trent franks,0
+2017-10-24T00:00:00Z,Fox News,al franken,0
+2017-10-24T00:00:00Z,Fox News,harvey weinstein,0
+2017-10-24T00:00:00Z,Fox News,john conyers,0
+2017-10-24T00:00:00Z,Fox News,mark halperin,0
+2017-10-24T00:00:00Z,Fox News,matt lauer,0
+2017-10-24T00:00:00Z,Fox News,roy moore,1
+2017-10-24T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-24T00:00:00Z,MSNBC,harvey weinstein,3
+2017-10-24T00:00:00Z,MSNBC,james toback,0
+2017-10-24T00:00:00Z,MSNBC,mark halperin,1
+2017-10-24T00:00:00Z,MSNBC,matt lauer,0
+2017-10-24T00:00:00Z,MSNBC,roy moore,2
+2017-10-25T00:00:00Z,CNN,harvey weinstein,2
+2017-10-25T00:00:00Z,CNN,james toback,0
+2017-10-25T00:00:00Z,CNN,mark halperin,0
+2017-10-25T00:00:00Z,CNN,roy moore,0
+2017-10-25T00:00:00Z,CNN,trent franks,0
+2017-10-25T00:00:00Z,Fox News,al franken,0
+2017-10-25T00:00:00Z,Fox News,harvey weinstein,2
+2017-10-25T00:00:00Z,Fox News,john conyers,0
+2017-10-25T00:00:00Z,Fox News,mark halperin,0
+2017-10-25T00:00:00Z,Fox News,matt lauer,0
+2017-10-25T00:00:00Z,Fox News,roy moore,0
+2017-10-25T00:00:00Z,MSNBC,glenn thrush,2
+2017-10-25T00:00:00Z,MSNBC,harvey weinstein,2
+2017-10-25T00:00:00Z,MSNBC,james toback,0
+2017-10-25T00:00:00Z,MSNBC,mark halperin,0
+2017-10-25T00:00:00Z,MSNBC,matt lauer,0
+2017-10-25T00:00:00Z,MSNBC,roy moore,3
+2017-10-26T00:00:00Z,CNN,harvey weinstein,3
+2017-10-26T00:00:00Z,CNN,james toback,1
+2017-10-26T00:00:00Z,CNN,mark halperin,2
+2017-10-26T00:00:00Z,CNN,roy moore,3
+2017-10-26T00:00:00Z,CNN,trent franks,0
+2017-10-26T00:00:00Z,Fox News,al franken,0
+2017-10-26T00:00:00Z,Fox News,harvey weinstein,1
+2017-10-26T00:00:00Z,Fox News,john conyers,0
+2017-10-26T00:00:00Z,Fox News,mark halperin,1
+2017-10-26T00:00:00Z,Fox News,matt lauer,1
+2017-10-26T00:00:00Z,Fox News,roy moore,0
+2017-10-26T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-26T00:00:00Z,MSNBC,harvey weinstein,3
+2017-10-26T00:00:00Z,MSNBC,james toback,1
+2017-10-26T00:00:00Z,MSNBC,mark halperin,3
+2017-10-26T00:00:00Z,MSNBC,matt lauer,1
+2017-10-26T00:00:00Z,MSNBC,roy moore,6
+2017-10-27T00:00:00Z,CNN,harvey weinstein,5
+2017-10-27T00:00:00Z,CNN,james toback,0
+2017-10-27T00:00:00Z,CNN,mark halperin,4
+2017-10-27T00:00:00Z,CNN,roy moore,2
+2017-10-27T00:00:00Z,CNN,trent franks,0
+2017-10-27T00:00:00Z,Fox News,al franken,0
+2017-10-27T00:00:00Z,Fox News,harvey weinstein,4
+2017-10-27T00:00:00Z,Fox News,john conyers,3
+2017-10-27T00:00:00Z,Fox News,mark halperin,2
+2017-10-27T00:00:00Z,Fox News,matt lauer,0
+2017-10-27T00:00:00Z,Fox News,roy moore,0
+2017-10-27T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-27T00:00:00Z,MSNBC,harvey weinstein,7
+2017-10-27T00:00:00Z,MSNBC,james toback,1
+2017-10-27T00:00:00Z,MSNBC,mark halperin,2
+2017-10-27T00:00:00Z,MSNBC,matt lauer,0
+2017-10-27T00:00:00Z,MSNBC,roy moore,6
+2017-10-28T00:00:00Z,CNN,harvey weinstein,1
+2017-10-28T00:00:00Z,CNN,james toback,0
+2017-10-28T00:00:00Z,CNN,mark halperin,0
+2017-10-28T00:00:00Z,CNN,roy moore,0
+2017-10-28T00:00:00Z,CNN,trent franks,1
+2017-10-28T00:00:00Z,Fox News,al franken,0
+2017-10-28T00:00:00Z,Fox News,harvey weinstein,5
+2017-10-28T00:00:00Z,Fox News,john conyers,0
+2017-10-28T00:00:00Z,Fox News,mark halperin,1
+2017-10-28T00:00:00Z,Fox News,matt lauer,0
+2017-10-28T00:00:00Z,Fox News,roy moore,0
+2017-10-28T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-28T00:00:00Z,MSNBC,harvey weinstein,0
+2017-10-28T00:00:00Z,MSNBC,james toback,0
+2017-10-28T00:00:00Z,MSNBC,mark halperin,0
+2017-10-28T00:00:00Z,MSNBC,matt lauer,0
+2017-10-28T00:00:00Z,MSNBC,roy moore,0
+2017-10-29T00:00:00Z,CNN,al franken,0
+2017-10-29T00:00:00Z,CNN,harvey weinstein,1
+2017-10-29T00:00:00Z,CNN,kevin spacey,0
+2017-10-29T00:00:00Z,CNN,mark halperin,1
+2017-10-29T00:00:00Z,Fox News,al franken,0
+2017-10-29T00:00:00Z,Fox News,harvey weinstein,4
+2017-10-29T00:00:00Z,Fox News,kevin spacey,0
+2017-10-29T00:00:00Z,Fox News,mark halperin,2
+2017-10-29T00:00:00Z,Fox News,michael fallon,0
+2017-10-29T00:00:00Z,Fox News,roy moore,0
+2017-10-29T00:00:00Z,Fox News,trent franks,0
+2017-10-29T00:00:00Z,MSNBC,al franken,0
+2017-10-29T00:00:00Z,MSNBC,dustin hoffman,0
+2017-10-29T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-29T00:00:00Z,MSNBC,harvey weinstein,1
+2017-10-29T00:00:00Z,MSNBC,james toback,0
+2017-10-29T00:00:00Z,MSNBC,jeremy piven,0
+2017-10-29T00:00:00Z,MSNBC,kevin spacey,0
+2017-10-29T00:00:00Z,MSNBC,mark halperin,1
+2017-10-29T00:00:00Z,MSNBC,michael fallon,0
+2017-10-29T00:00:00Z,MSNBC,roy moore,1
+2017-10-30T00:00:00Z,CNN,al franken,0
+2017-10-30T00:00:00Z,CNN,harvey weinstein,1
+2017-10-30T00:00:00Z,CNN,kevin spacey,2
+2017-10-30T00:00:00Z,CNN,mark halperin,0
+2017-10-30T00:00:00Z,Fox News,al franken,0
+2017-10-30T00:00:00Z,Fox News,harvey weinstein,2
+2017-10-30T00:00:00Z,Fox News,kevin spacey,3
+2017-10-30T00:00:00Z,Fox News,mark halperin,0
+2017-10-30T00:00:00Z,Fox News,michael fallon,0
+2017-10-30T00:00:00Z,Fox News,roy moore,0
+2017-10-30T00:00:00Z,Fox News,trent franks,0
+2017-10-30T00:00:00Z,MSNBC,al franken,0
+2017-10-30T00:00:00Z,MSNBC,dustin hoffman,0
+2017-10-30T00:00:00Z,MSNBC,glenn thrush,1
+2017-10-30T00:00:00Z,MSNBC,harvey weinstein,0
+2017-10-30T00:00:00Z,MSNBC,james toback,0
+2017-10-30T00:00:00Z,MSNBC,jeremy piven,0
+2017-10-30T00:00:00Z,MSNBC,kevin spacey,2
+2017-10-30T00:00:00Z,MSNBC,mark halperin,0
+2017-10-30T00:00:00Z,MSNBC,michael fallon,0
+2017-10-30T00:00:00Z,MSNBC,roy moore,0
+2017-10-31T00:00:00Z,CNN,al franken,0
+2017-10-31T00:00:00Z,CNN,harvey weinstein,0
+2017-10-31T00:00:00Z,CNN,kevin spacey,1
+2017-10-31T00:00:00Z,CNN,mark halperin,0
+2017-10-31T00:00:00Z,Fox News,al franken,0
+2017-10-31T00:00:00Z,Fox News,harvey weinstein,1
+2017-10-31T00:00:00Z,Fox News,kevin spacey,2
+2017-10-31T00:00:00Z,Fox News,mark halperin,0
+2017-10-31T00:00:00Z,Fox News,michael fallon,0
+2017-10-31T00:00:00Z,Fox News,roy moore,2
+2017-10-31T00:00:00Z,Fox News,trent franks,0
+2017-10-31T00:00:00Z,MSNBC,al franken,0
+2017-10-31T00:00:00Z,MSNBC,dustin hoffman,0
+2017-10-31T00:00:00Z,MSNBC,glenn thrush,0
+2017-10-31T00:00:00Z,MSNBC,harvey weinstein,0
+2017-10-31T00:00:00Z,MSNBC,james toback,0
+2017-10-31T00:00:00Z,MSNBC,jeremy piven,0
+2017-10-31T00:00:00Z,MSNBC,kevin spacey,1
+2017-10-31T00:00:00Z,MSNBC,mark halperin,0
+2017-10-31T00:00:00Z,MSNBC,michael fallon,0
+2017-10-31T00:00:00Z,MSNBC,roy moore,2
+2017-11-01T00:00:00Z,CNN,al franken,1
+2017-11-01T00:00:00Z,CNN,harvey weinstein,0
+2017-11-01T00:00:00Z,CNN,kevin spacey,1
+2017-11-01T00:00:00Z,CNN,mark halperin,0
+2017-11-01T00:00:00Z,Fox News,al franken,0
+2017-11-01T00:00:00Z,Fox News,harvey weinstein,0
+2017-11-01T00:00:00Z,Fox News,kevin spacey,0
+2017-11-01T00:00:00Z,Fox News,mark halperin,0
+2017-11-01T00:00:00Z,Fox News,michael fallon,1
+2017-11-01T00:00:00Z,Fox News,roy moore,0
+2017-11-01T00:00:00Z,Fox News,trent franks,0
+2017-11-01T00:00:00Z,MSNBC,al franken,0
+2017-11-01T00:00:00Z,MSNBC,dustin hoffman,0
+2017-11-01T00:00:00Z,MSNBC,glenn thrush,0
+2017-11-01T00:00:00Z,MSNBC,harvey weinstein,0
+2017-11-01T00:00:00Z,MSNBC,james toback,0
+2017-11-01T00:00:00Z,MSNBC,jeremy piven,0
+2017-11-01T00:00:00Z,MSNBC,kevin spacey,0
+2017-11-01T00:00:00Z,MSNBC,mark halperin,0
+2017-11-01T00:00:00Z,MSNBC,michael fallon,0
+2017-11-01T00:00:00Z,MSNBC,roy moore,2
+2017-11-02T00:00:00Z,CNN,al franken,1
+2017-11-02T00:00:00Z,CNN,harvey weinstein,1
+2017-11-02T00:00:00Z,CNN,kevin spacey,0
+2017-11-02T00:00:00Z,CNN,mark halperin,1
+2017-11-02T00:00:00Z,Fox News,al franken,0
+2017-11-02T00:00:00Z,Fox News,harvey weinstein,0
+2017-11-02T00:00:00Z,Fox News,kevin spacey,0
+2017-11-02T00:00:00Z,Fox News,mark halperin,0
+2017-11-02T00:00:00Z,Fox News,michael fallon,0
+2017-11-02T00:00:00Z,Fox News,roy moore,0
+2017-11-02T00:00:00Z,Fox News,trent franks,0
+2017-11-02T00:00:00Z,MSNBC,al franken,3
+2017-11-02T00:00:00Z,MSNBC,dustin hoffman,2
+2017-11-02T00:00:00Z,MSNBC,glenn thrush,0
+2017-11-02T00:00:00Z,MSNBC,harvey weinstein,1
+2017-11-02T00:00:00Z,MSNBC,james toback,0
+2017-11-02T00:00:00Z,MSNBC,jeremy piven,1
+2017-11-02T00:00:00Z,MSNBC,kevin spacey,1
+2017-11-02T00:00:00Z,MSNBC,mark halperin,0
+2017-11-02T00:00:00Z,MSNBC,michael fallon,1
+2017-11-02T00:00:00Z,MSNBC,roy moore,1
+2017-11-03T00:00:00Z,CNN,al franken,4
+2017-11-03T00:00:00Z,CNN,harvey weinstein,2
+2017-11-03T00:00:00Z,CNN,kevin spacey,5
+2017-11-03T00:00:00Z,CNN,mark halperin,1
+2017-11-03T00:00:00Z,Fox News,al franken,2
+2017-11-03T00:00:00Z,Fox News,harvey weinstein,2
+2017-11-03T00:00:00Z,Fox News,kevin spacey,2
+2017-11-03T00:00:00Z,Fox News,mark halperin,0
+2017-11-03T00:00:00Z,Fox News,michael fallon,0
+2017-11-03T00:00:00Z,Fox News,roy moore,0
+2017-11-03T00:00:00Z,Fox News,trent franks,1
+2017-11-03T00:00:00Z,MSNBC,al franken,9
+2017-11-03T00:00:00Z,MSNBC,dustin hoffman,1
+2017-11-03T00:00:00Z,MSNBC,glenn thrush,0
+2017-11-03T00:00:00Z,MSNBC,harvey weinstein,4
+2017-11-03T00:00:00Z,MSNBC,james toback,1
+2017-11-03T00:00:00Z,MSNBC,jeremy piven,1
+2017-11-03T00:00:00Z,MSNBC,kevin spacey,2
+2017-11-03T00:00:00Z,MSNBC,mark halperin,0
+2017-11-03T00:00:00Z,MSNBC,michael fallon,0
+2017-11-03T00:00:00Z,MSNBC,roy moore,0
+2017-11-04T00:00:00Z,CNN,al franken,1
+2017-11-04T00:00:00Z,CNN,harvey weinstein,4
+2017-11-04T00:00:00Z,CNN,kevin spacey,4
+2017-11-04T00:00:00Z,CNN,mark halperin,0
+2017-11-04T00:00:00Z,Fox News,al franken,0
+2017-11-04T00:00:00Z,Fox News,harvey weinstein,4
+2017-11-04T00:00:00Z,Fox News,kevin spacey,5
+2017-11-04T00:00:00Z,Fox News,mark halperin,0
+2017-11-04T00:00:00Z,Fox News,michael fallon,0
+2017-11-04T00:00:00Z,Fox News,roy moore,0
+2017-11-04T00:00:00Z,Fox News,trent franks,0
+2017-11-04T00:00:00Z,MSNBC,al franken,5
+2017-11-04T00:00:00Z,MSNBC,dustin hoffman,0
+2017-11-04T00:00:00Z,MSNBC,glenn thrush,0
+2017-11-04T00:00:00Z,MSNBC,harvey weinstein,3
+2017-11-04T00:00:00Z,MSNBC,james toback,0
+2017-11-04T00:00:00Z,MSNBC,jeremy piven,0
+2017-11-04T00:00:00Z,MSNBC,kevin spacey,1
+2017-11-04T00:00:00Z,MSNBC,mark halperin,0
+2017-11-04T00:00:00Z,MSNBC,michael fallon,0
+2017-11-04T00:00:00Z,MSNBC,roy moore,0
+2017-11-05T00:00:00Z,CNN,al franken,0
+2017-11-05T00:00:00Z,CNN,harvey weinstein,3
+2017-11-05T00:00:00Z,CNN,kevin spacey,1
+2017-11-05T00:00:00Z,CNN,louis ck,0
+2017-11-05T00:00:00Z,CNN,mark halperin,0
+2017-11-05T00:00:00Z,CNN,roy moore,0
+2017-11-05T00:00:00Z,Fox News,brett ratner,1
+2017-11-05T00:00:00Z,Fox News,dustin hoffman,1
+2017-11-05T00:00:00Z,Fox News,harvey weinstein,3
+2017-11-05T00:00:00Z,Fox News,jeffrey tambor,0
+2017-11-05T00:00:00Z,Fox News,kevin spacey,4
+2017-11-05T00:00:00Z,Fox News,louis ck,0
+2017-11-05T00:00:00Z,Fox News,mark halperin,1
+2017-11-05T00:00:00Z,Fox News,richard dreyfuss,2
+2017-11-05T00:00:00Z,Fox News,roy moore,0
+2017-11-05T00:00:00Z,Fox News,trent franks,0
+2017-11-05T00:00:00Z,MSNBC,al franken,1
+2017-11-05T00:00:00Z,MSNBC,brett ratner,0
+2017-11-05T00:00:00Z,MSNBC,charlie rose,0
+2017-11-05T00:00:00Z,MSNBC,dustin hoffman,0
+2017-11-05T00:00:00Z,MSNBC,gary goddard,0
+2017-11-05T00:00:00Z,MSNBC,glenn thrush,0
+2017-11-05T00:00:00Z,MSNBC,harvey weinstein,0
+2017-11-05T00:00:00Z,MSNBC,jeremy piven,0
+2017-11-05T00:00:00Z,MSNBC,kevin spacey,0
+2017-11-05T00:00:00Z,MSNBC,louis ck,0
+2017-11-05T00:00:00Z,MSNBC,mark halperin,0
+2017-11-05T00:00:00Z,MSNBC,roy moore,0
+2017-11-06T00:00:00Z,CNN,al franken,0
+2017-11-06T00:00:00Z,CNN,harvey weinstein,0
+2017-11-06T00:00:00Z,CNN,kevin spacey,0
+2017-11-06T00:00:00Z,CNN,louis ck,0
+2017-11-06T00:00:00Z,CNN,mark halperin,0
+2017-11-06T00:00:00Z,CNN,roy moore,0
+2017-11-06T00:00:00Z,Fox News,brett ratner,0
+2017-11-06T00:00:00Z,Fox News,dustin hoffman,0
+2017-11-06T00:00:00Z,Fox News,harvey weinstein,0
+2017-11-06T00:00:00Z,Fox News,jeffrey tambor,0
+2017-11-06T00:00:00Z,Fox News,kevin spacey,0
+2017-11-06T00:00:00Z,Fox News,louis ck,0
+2017-11-06T00:00:00Z,Fox News,mark halperin,0
+2017-11-06T00:00:00Z,Fox News,richard dreyfuss,0
+2017-11-06T00:00:00Z,Fox News,roy moore,0
+2017-11-06T00:00:00Z,Fox News,trent franks,0
+2017-11-06T00:00:00Z,MSNBC,al franken,0
+2017-11-06T00:00:00Z,MSNBC,brett ratner,0
+2017-11-06T00:00:00Z,MSNBC,charlie rose,0
+2017-11-06T00:00:00Z,MSNBC,dustin hoffman,0
+2017-11-06T00:00:00Z,MSNBC,gary goddard,0
+2017-11-06T00:00:00Z,MSNBC,glenn thrush,0
+2017-11-06T00:00:00Z,MSNBC,harvey weinstein,0
+2017-11-06T00:00:00Z,MSNBC,jeremy piven,0
+2017-11-06T00:00:00Z,MSNBC,kevin spacey,0
+2017-11-06T00:00:00Z,MSNBC,louis ck,0
+2017-11-06T00:00:00Z,MSNBC,mark halperin,0
+2017-11-06T00:00:00Z,MSNBC,roy moore,0
+2017-11-07T00:00:00Z,CNN,al franken,1
+2017-11-07T00:00:00Z,CNN,harvey weinstein,1
+2017-11-07T00:00:00Z,CNN,kevin spacey,0
+2017-11-07T00:00:00Z,CNN,louis ck,0
+2017-11-07T00:00:00Z,CNN,mark halperin,0
+2017-11-07T00:00:00Z,CNN,roy moore,1
+2017-11-07T00:00:00Z,Fox News,brett ratner,0
+2017-11-07T00:00:00Z,Fox News,dustin hoffman,0
+2017-11-07T00:00:00Z,Fox News,harvey weinstein,1
+2017-11-07T00:00:00Z,Fox News,jeffrey tambor,0
+2017-11-07T00:00:00Z,Fox News,kevin spacey,0
+2017-11-07T00:00:00Z,Fox News,louis ck,0
+2017-11-07T00:00:00Z,Fox News,mark halperin,0
+2017-11-07T00:00:00Z,Fox News,richard dreyfuss,0
+2017-11-07T00:00:00Z,Fox News,roy moore,0
+2017-11-07T00:00:00Z,Fox News,trent franks,0
+2017-11-07T00:00:00Z,MSNBC,al franken,0
+2017-11-07T00:00:00Z,MSNBC,brett ratner,0
+2017-11-07T00:00:00Z,MSNBC,charlie rose,0
+2017-11-07T00:00:00Z,MSNBC,dustin hoffman,0
+2017-11-07T00:00:00Z,MSNBC,gary goddard,0
+2017-11-07T00:00:00Z,MSNBC,glenn thrush,0
+2017-11-07T00:00:00Z,MSNBC,harvey weinstein,3
+2017-11-07T00:00:00Z,MSNBC,jeremy piven,0
+2017-11-07T00:00:00Z,MSNBC,kevin spacey,0
+2017-11-07T00:00:00Z,MSNBC,louis ck,0
+2017-11-07T00:00:00Z,MSNBC,mark halperin,0
+2017-11-07T00:00:00Z,MSNBC,roy moore,0
+2017-11-08T00:00:00Z,CNN,al franken,0
+2017-11-08T00:00:00Z,CNN,harvey weinstein,1
+2017-11-08T00:00:00Z,CNN,kevin spacey,3
+2017-11-08T00:00:00Z,CNN,louis ck,0
+2017-11-08T00:00:00Z,CNN,mark halperin,0
+2017-11-08T00:00:00Z,CNN,roy moore,3
+2017-11-08T00:00:00Z,Fox News,brett ratner,0
+2017-11-08T00:00:00Z,Fox News,dustin hoffman,0
+2017-11-08T00:00:00Z,Fox News,harvey weinstein,1
+2017-11-08T00:00:00Z,Fox News,jeffrey tambor,0
+2017-11-08T00:00:00Z,Fox News,kevin spacey,0
+2017-11-08T00:00:00Z,Fox News,louis ck,1
+2017-11-08T00:00:00Z,Fox News,mark halperin,0
+2017-11-08T00:00:00Z,Fox News,richard dreyfuss,0
+2017-11-08T00:00:00Z,Fox News,roy moore,0
+2017-11-08T00:00:00Z,Fox News,trent franks,1
+2017-11-08T00:00:00Z,MSNBC,al franken,0
+2017-11-08T00:00:00Z,MSNBC,brett ratner,0
+2017-11-08T00:00:00Z,MSNBC,charlie rose,0
+2017-11-08T00:00:00Z,MSNBC,dustin hoffman,0
+2017-11-08T00:00:00Z,MSNBC,gary goddard,0
+2017-11-08T00:00:00Z,MSNBC,glenn thrush,0
+2017-11-08T00:00:00Z,MSNBC,harvey weinstein,2
+2017-11-08T00:00:00Z,MSNBC,jeremy piven,0
+2017-11-08T00:00:00Z,MSNBC,kevin spacey,4
+2017-11-08T00:00:00Z,MSNBC,louis ck,0
+2017-11-08T00:00:00Z,MSNBC,mark halperin,0
+2017-11-08T00:00:00Z,MSNBC,roy moore,2
+2017-11-09T00:00:00Z,CNN,al franken,0
+2017-11-09T00:00:00Z,CNN,harvey weinstein,8
+2017-11-09T00:00:00Z,CNN,kevin spacey,8
+2017-11-09T00:00:00Z,CNN,louis ck,2
+2017-11-09T00:00:00Z,CNN,mark halperin,0
+2017-11-09T00:00:00Z,CNN,roy moore,5
+2017-11-09T00:00:00Z,Fox News,brett ratner,0
+2017-11-09T00:00:00Z,Fox News,dustin hoffman,0
+2017-11-09T00:00:00Z,Fox News,harvey weinstein,0
+2017-11-09T00:00:00Z,Fox News,jeffrey tambor,0
+2017-11-09T00:00:00Z,Fox News,kevin spacey,1
+2017-11-09T00:00:00Z,Fox News,louis ck,0
+2017-11-09T00:00:00Z,Fox News,mark halperin,0
+2017-11-09T00:00:00Z,Fox News,richard dreyfuss,0
+2017-11-09T00:00:00Z,Fox News,roy moore,4
+2017-11-09T00:00:00Z,Fox News,trent franks,0
+2017-11-09T00:00:00Z,MSNBC,al franken,0
+2017-11-09T00:00:00Z,MSNBC,brett ratner,0
+2017-11-09T00:00:00Z,MSNBC,charlie rose,0
+2017-11-09T00:00:00Z,MSNBC,dustin hoffman,0
+2017-11-09T00:00:00Z,MSNBC,gary goddard,0
+2017-11-09T00:00:00Z,MSNBC,glenn thrush,0
+2017-11-09T00:00:00Z,MSNBC,harvey weinstein,3
+2017-11-09T00:00:00Z,MSNBC,jeremy piven,0
+2017-11-09T00:00:00Z,MSNBC,kevin spacey,5
+2017-11-09T00:00:00Z,MSNBC,louis ck,0
+2017-11-09T00:00:00Z,MSNBC,mark halperin,0
+2017-11-09T00:00:00Z,MSNBC,roy moore,4
+2017-11-10T00:00:00Z,CNN,al franken,0
+2017-11-10T00:00:00Z,CNN,harvey weinstein,11
+2017-11-10T00:00:00Z,CNN,kevin spacey,7
+2017-11-10T00:00:00Z,CNN,louis ck,4
+2017-11-10T00:00:00Z,CNN,mark halperin,3
+2017-11-10T00:00:00Z,CNN,roy moore,21
+2017-11-10T00:00:00Z,Fox News,brett ratner,0
+2017-11-10T00:00:00Z,Fox News,dustin hoffman,2
+2017-11-10T00:00:00Z,Fox News,harvey weinstein,6
+2017-11-10T00:00:00Z,Fox News,jeffrey tambor,2
+2017-11-10T00:00:00Z,Fox News,kevin spacey,4
+2017-11-10T00:00:00Z,Fox News,louis ck,3
+2017-11-10T00:00:00Z,Fox News,mark halperin,0
+2017-11-10T00:00:00Z,Fox News,richard dreyfuss,0
+2017-11-10T00:00:00Z,Fox News,roy moore,18
+2017-11-10T00:00:00Z,Fox News,trent franks,0
+2017-11-10T00:00:00Z,MSNBC,al franken,0
+2017-11-10T00:00:00Z,MSNBC,brett ratner,0
+2017-11-10T00:00:00Z,MSNBC,charlie rose,1
+2017-11-10T00:00:00Z,MSNBC,dustin hoffman,0
+2017-11-10T00:00:00Z,MSNBC,gary goddard,0
+2017-11-10T00:00:00Z,MSNBC,glenn thrush,1
+2017-11-10T00:00:00Z,MSNBC,harvey weinstein,5
+2017-11-10T00:00:00Z,MSNBC,jeremy piven,0
+2017-11-10T00:00:00Z,MSNBC,kevin spacey,2
+2017-11-10T00:00:00Z,MSNBC,louis ck,2
+2017-11-10T00:00:00Z,MSNBC,mark halperin,0
+2017-11-10T00:00:00Z,MSNBC,roy moore,21
+2017-11-11T00:00:00Z,CNN,al franken,0
+2017-11-11T00:00:00Z,CNN,harvey weinstein,6
+2017-11-11T00:00:00Z,CNN,kevin spacey,3
+2017-11-11T00:00:00Z,CNN,louis ck,0
+2017-11-11T00:00:00Z,CNN,mark halperin,0
+2017-11-11T00:00:00Z,CNN,roy moore,19
+2017-11-11T00:00:00Z,Fox News,brett ratner,0
+2017-11-11T00:00:00Z,Fox News,dustin hoffman,0
+2017-11-11T00:00:00Z,Fox News,harvey weinstein,6
+2017-11-11T00:00:00Z,Fox News,jeffrey tambor,0
+2017-11-11T00:00:00Z,Fox News,kevin spacey,2
+2017-11-11T00:00:00Z,Fox News,louis ck,6
+2017-11-11T00:00:00Z,Fox News,mark halperin,0
+2017-11-11T00:00:00Z,Fox News,richard dreyfuss,0
+2017-11-11T00:00:00Z,Fox News,roy moore,18
+2017-11-11T00:00:00Z,Fox News,trent franks,0
+2017-11-11T00:00:00Z,MSNBC,al franken,0
+2017-11-11T00:00:00Z,MSNBC,brett ratner,1
+2017-11-11T00:00:00Z,MSNBC,charlie rose,0
+2017-11-11T00:00:00Z,MSNBC,dustin hoffman,3
+2017-11-11T00:00:00Z,MSNBC,gary goddard,1
+2017-11-11T00:00:00Z,MSNBC,glenn thrush,0
+2017-11-11T00:00:00Z,MSNBC,harvey weinstein,12
+2017-11-11T00:00:00Z,MSNBC,jeremy piven,3
+2017-11-11T00:00:00Z,MSNBC,kevin spacey,5
+2017-11-11T00:00:00Z,MSNBC,louis ck,2
+2017-11-11T00:00:00Z,MSNBC,mark halperin,3
+2017-11-11T00:00:00Z,MSNBC,roy moore,16
+2017-11-12T00:00:00Z,CNN,al franken,0
+2017-11-12T00:00:00Z,CNN,george takei,1
+2017-11-12T00:00:00Z,CNN,harvey weinstein,2
+2017-11-12T00:00:00Z,CNN,john conyers,0
+2017-11-12T00:00:00Z,CNN,kevin spacey,2
+2017-11-12T00:00:00Z,CNN,louis ck,1
+2017-11-12T00:00:00Z,CNN,mark halperin,0
+2017-11-12T00:00:00Z,CNN,roy moore,10
+2017-11-12T00:00:00Z,Fox News,al franken,0
+2017-11-12T00:00:00Z,Fox News,dustin hoffman,0
+2017-11-12T00:00:00Z,Fox News,gary goddard,1
+2017-11-12T00:00:00Z,Fox News,george takei,1
+2017-11-12T00:00:00Z,Fox News,harvey weinstein,2
+2017-11-12T00:00:00Z,Fox News,jeffrey tambor,0
+2017-11-12T00:00:00Z,Fox News,kevin spacey,1
+2017-11-12T00:00:00Z,Fox News,louis ck,0
+2017-11-12T00:00:00Z,Fox News,matt lauer,0
+2017-11-12T00:00:00Z,Fox News,matthew weiner,0
+2017-11-12T00:00:00Z,Fox News,richard dreyfuss,1
+2017-11-12T00:00:00Z,Fox News,roy moore,11
+2017-11-12T00:00:00Z,Fox News,trent franks,0
+2017-11-12T00:00:00Z,MSNBC,al franken,0
+2017-11-12T00:00:00Z,MSNBC,harvey weinstein,4
+2017-11-12T00:00:00Z,MSNBC,jeremy piven,1
+2017-11-12T00:00:00Z,MSNBC,kevin spacey,2
+2017-11-12T00:00:00Z,MSNBC,louis ck,0
+2017-11-12T00:00:00Z,MSNBC,mark halperin,0
+2017-11-12T00:00:00Z,MSNBC,roy moore,15
+2017-11-13T00:00:00Z,CNN,al franken,0
+2017-11-13T00:00:00Z,CNN,george takei,0
+2017-11-13T00:00:00Z,CNN,harvey weinstein,1
+2017-11-13T00:00:00Z,CNN,john conyers,0
+2017-11-13T00:00:00Z,CNN,kevin spacey,0
+2017-11-13T00:00:00Z,CNN,louis ck,0
+2017-11-13T00:00:00Z,CNN,mark halperin,0
+2017-11-13T00:00:00Z,CNN,roy moore,14
+2017-11-13T00:00:00Z,Fox News,al franken,0
+2017-11-13T00:00:00Z,Fox News,dustin hoffman,0
+2017-11-13T00:00:00Z,Fox News,gary goddard,0
+2017-11-13T00:00:00Z,Fox News,george takei,0
+2017-11-13T00:00:00Z,Fox News,harvey weinstein,3
+2017-11-13T00:00:00Z,Fox News,jeffrey tambor,0
+2017-11-13T00:00:00Z,Fox News,kevin spacey,1
+2017-11-13T00:00:00Z,Fox News,louis ck,0
+2017-11-13T00:00:00Z,Fox News,matt lauer,0
+2017-11-13T00:00:00Z,Fox News,matthew weiner,0
+2017-11-13T00:00:00Z,Fox News,richard dreyfuss,0
+2017-11-13T00:00:00Z,Fox News,roy moore,12
+2017-11-13T00:00:00Z,Fox News,trent franks,0
+2017-11-13T00:00:00Z,MSNBC,al franken,0
+2017-11-13T00:00:00Z,MSNBC,harvey weinstein,4
+2017-11-13T00:00:00Z,MSNBC,jeremy piven,0
+2017-11-13T00:00:00Z,MSNBC,kevin spacey,0
+2017-11-13T00:00:00Z,MSNBC,louis ck,0
+2017-11-13T00:00:00Z,MSNBC,mark halperin,0
+2017-11-13T00:00:00Z,MSNBC,roy moore,16
+2017-11-14T00:00:00Z,CNN,al franken,2
+2017-11-14T00:00:00Z,CNN,george takei,0
+2017-11-14T00:00:00Z,CNN,harvey weinstein,4
+2017-11-14T00:00:00Z,CNN,john conyers,1
+2017-11-14T00:00:00Z,CNN,kevin spacey,0
+2017-11-14T00:00:00Z,CNN,louis ck,0
+2017-11-14T00:00:00Z,CNN,mark halperin,0
+2017-11-14T00:00:00Z,CNN,roy moore,16
+2017-11-14T00:00:00Z,Fox News,al franken,2
+2017-11-14T00:00:00Z,Fox News,dustin hoffman,0
+2017-11-14T00:00:00Z,Fox News,gary goddard,0
+2017-11-14T00:00:00Z,Fox News,george takei,0
+2017-11-14T00:00:00Z,Fox News,harvey weinstein,0
+2017-11-14T00:00:00Z,Fox News,jeffrey tambor,0
+2017-11-14T00:00:00Z,Fox News,kevin spacey,0
+2017-11-14T00:00:00Z,Fox News,louis ck,0
+2017-11-14T00:00:00Z,Fox News,matt lauer,1
+2017-11-14T00:00:00Z,Fox News,matthew weiner,0
+2017-11-14T00:00:00Z,Fox News,richard dreyfuss,0
+2017-11-14T00:00:00Z,Fox News,roy moore,16
+2017-11-14T00:00:00Z,Fox News,trent franks,0
+2017-11-14T00:00:00Z,MSNBC,al franken,1
+2017-11-14T00:00:00Z,MSNBC,harvey weinstein,6
+2017-11-14T00:00:00Z,MSNBC,jeremy piven,0
+2017-11-14T00:00:00Z,MSNBC,kevin spacey,2
+2017-11-14T00:00:00Z,MSNBC,louis ck,0
+2017-11-14T00:00:00Z,MSNBC,mark halperin,0
+2017-11-14T00:00:00Z,MSNBC,roy moore,18
+2017-11-15T00:00:00Z,CNN,al franken,1
+2017-11-15T00:00:00Z,CNN,george takei,0
+2017-11-15T00:00:00Z,CNN,harvey weinstein,3
+2017-11-15T00:00:00Z,CNN,john conyers,0
+2017-11-15T00:00:00Z,CNN,kevin spacey,0
+2017-11-15T00:00:00Z,CNN,louis ck,0
+2017-11-15T00:00:00Z,CNN,mark halperin,0
+2017-11-15T00:00:00Z,CNN,roy moore,24
+2017-11-15T00:00:00Z,Fox News,al franken,2
+2017-11-15T00:00:00Z,Fox News,dustin hoffman,0
+2017-11-15T00:00:00Z,Fox News,gary goddard,0
+2017-11-15T00:00:00Z,Fox News,george takei,0
+2017-11-15T00:00:00Z,Fox News,harvey weinstein,4
+2017-11-15T00:00:00Z,Fox News,jeffrey tambor,0
+2017-11-15T00:00:00Z,Fox News,kevin spacey,0
+2017-11-15T00:00:00Z,Fox News,louis ck,1
+2017-11-15T00:00:00Z,Fox News,matt lauer,0
+2017-11-15T00:00:00Z,Fox News,matthew weiner,0
+2017-11-15T00:00:00Z,Fox News,richard dreyfuss,0
+2017-11-15T00:00:00Z,Fox News,roy moore,19
+2017-11-15T00:00:00Z,Fox News,trent franks,1
+2017-11-15T00:00:00Z,MSNBC,al franken,2
+2017-11-15T00:00:00Z,MSNBC,harvey weinstein,5
+2017-11-15T00:00:00Z,MSNBC,jeremy piven,0
+2017-11-15T00:00:00Z,MSNBC,kevin spacey,0
+2017-11-15T00:00:00Z,MSNBC,louis ck,0
+2017-11-15T00:00:00Z,MSNBC,mark halperin,0
+2017-11-15T00:00:00Z,MSNBC,roy moore,21
+2017-11-16T00:00:00Z,CNN,al franken,5
+2017-11-16T00:00:00Z,CNN,george takei,0
+2017-11-16T00:00:00Z,CNN,harvey weinstein,6
+2017-11-16T00:00:00Z,CNN,john conyers,0
+2017-11-16T00:00:00Z,CNN,kevin spacey,2
+2017-11-16T00:00:00Z,CNN,louis ck,0
+2017-11-16T00:00:00Z,CNN,mark halperin,1
+2017-11-16T00:00:00Z,CNN,roy moore,16
+2017-11-16T00:00:00Z,Fox News,al franken,7
+2017-11-16T00:00:00Z,Fox News,dustin hoffman,1
+2017-11-16T00:00:00Z,Fox News,gary goddard,0
+2017-11-16T00:00:00Z,Fox News,george takei,1
+2017-11-16T00:00:00Z,Fox News,harvey weinstein,5
+2017-11-16T00:00:00Z,Fox News,jeffrey tambor,0
+2017-11-16T00:00:00Z,Fox News,kevin spacey,2
+2017-11-16T00:00:00Z,Fox News,louis ck,0
+2017-11-16T00:00:00Z,Fox News,matt lauer,0
+2017-11-16T00:00:00Z,Fox News,matthew weiner,0
+2017-11-16T00:00:00Z,Fox News,richard dreyfuss,0
+2017-11-16T00:00:00Z,Fox News,roy moore,18
+2017-11-16T00:00:00Z,Fox News,trent franks,0
+2017-11-16T00:00:00Z,MSNBC,al franken,7
+2017-11-16T00:00:00Z,MSNBC,harvey weinstein,7
+2017-11-16T00:00:00Z,MSNBC,jeremy piven,0
+2017-11-16T00:00:00Z,MSNBC,kevin spacey,2
+2017-11-16T00:00:00Z,MSNBC,louis ck,1
+2017-11-16T00:00:00Z,MSNBC,mark halperin,0
+2017-11-16T00:00:00Z,MSNBC,roy moore,23
+2017-11-17T00:00:00Z,CNN,al franken,15
+2017-11-17T00:00:00Z,CNN,george takei,0
+2017-11-17T00:00:00Z,CNN,harvey weinstein,5
+2017-11-17T00:00:00Z,CNN,john conyers,0
+2017-11-17T00:00:00Z,CNN,kevin spacey,3
+2017-11-17T00:00:00Z,CNN,louis ck,1
+2017-11-17T00:00:00Z,CNN,mark halperin,1
+2017-11-17T00:00:00Z,CNN,roy moore,15
+2017-11-17T00:00:00Z,Fox News,al franken,19
+2017-11-17T00:00:00Z,Fox News,dustin hoffman,0
+2017-11-17T00:00:00Z,Fox News,gary goddard,0
+2017-11-17T00:00:00Z,Fox News,george takei,0
+2017-11-17T00:00:00Z,Fox News,harvey weinstein,5
+2017-11-17T00:00:00Z,Fox News,jeffrey tambor,1
+2017-11-17T00:00:00Z,Fox News,kevin spacey,1
+2017-11-17T00:00:00Z,Fox News,louis ck,0
+2017-11-17T00:00:00Z,Fox News,matt lauer,0
+2017-11-17T00:00:00Z,Fox News,matthew weiner,0
+2017-11-17T00:00:00Z,Fox News,richard dreyfuss,0
+2017-11-17T00:00:00Z,Fox News,roy moore,15
+2017-11-17T00:00:00Z,Fox News,trent franks,0
+2017-11-17T00:00:00Z,MSNBC,al franken,17
+2017-11-17T00:00:00Z,MSNBC,harvey weinstein,3
+2017-11-17T00:00:00Z,MSNBC,jeremy piven,0
+2017-11-17T00:00:00Z,MSNBC,kevin spacey,0
+2017-11-17T00:00:00Z,MSNBC,louis ck,0
+2017-11-17T00:00:00Z,MSNBC,mark halperin,1
+2017-11-17T00:00:00Z,MSNBC,roy moore,17
+2017-11-18T00:00:00Z,CNN,al franken,18
+2017-11-18T00:00:00Z,CNN,george takei,0
+2017-11-18T00:00:00Z,CNN,harvey weinstein,7
+2017-11-18T00:00:00Z,CNN,john conyers,0
+2017-11-18T00:00:00Z,CNN,kevin spacey,1
+2017-11-18T00:00:00Z,CNN,louis ck,0
+2017-11-18T00:00:00Z,CNN,mark halperin,0
+2017-11-18T00:00:00Z,CNN,roy moore,18
+2017-11-18T00:00:00Z,Fox News,al franken,21
+2017-11-18T00:00:00Z,Fox News,dustin hoffman,0
+2017-11-18T00:00:00Z,Fox News,gary goddard,0
+2017-11-18T00:00:00Z,Fox News,george takei,0
+2017-11-18T00:00:00Z,Fox News,harvey weinstein,6
+2017-11-18T00:00:00Z,Fox News,jeffrey tambor,0
+2017-11-18T00:00:00Z,Fox News,kevin spacey,5
+2017-11-18T00:00:00Z,Fox News,louis ck,1
+2017-11-18T00:00:00Z,Fox News,matt lauer,0
+2017-11-18T00:00:00Z,Fox News,matthew weiner,1
+2017-11-18T00:00:00Z,Fox News,richard dreyfuss,0
+2017-11-18T00:00:00Z,Fox News,roy moore,21
+2017-11-18T00:00:00Z,Fox News,trent franks,0
+2017-11-18T00:00:00Z,MSNBC,al franken,16
+2017-11-18T00:00:00Z,MSNBC,harvey weinstein,4
+2017-11-18T00:00:00Z,MSNBC,jeremy piven,0
+2017-11-18T00:00:00Z,MSNBC,kevin spacey,1
+2017-11-18T00:00:00Z,MSNBC,louis ck,0
+2017-11-18T00:00:00Z,MSNBC,mark halperin,0
+2017-11-18T00:00:00Z,MSNBC,roy moore,17
+2017-11-19T00:00:00Z,CNN,al franken,9
+2017-11-19T00:00:00Z,CNN,charlie rose,0
+2017-11-19T00:00:00Z,CNN,dustin hoffman,0
+2017-11-19T00:00:00Z,CNN,glenn thrush,0
+2017-11-19T00:00:00Z,CNN,harvey weinstein,3
+2017-11-19T00:00:00Z,CNN,jeffrey tambor,0
+2017-11-19T00:00:00Z,CNN,john conyers,0
+2017-11-19T00:00:00Z,CNN,john lasseter,0
+2017-11-19T00:00:00Z,CNN,kevin spacey,1
+2017-11-19T00:00:00Z,CNN,louis ck,0
+2017-11-19T00:00:00Z,CNN,mark halperin,0
+2017-11-19T00:00:00Z,CNN,nick carter,0
+2017-11-19T00:00:00Z,CNN,roy moore,11
+2017-11-19T00:00:00Z,CNN,russell simmons,0
+2017-11-19T00:00:00Z,Fox News,al franken,13
+2017-11-19T00:00:00Z,Fox News,charlie rose,0
+2017-11-19T00:00:00Z,Fox News,glenn thrush,0
+2017-11-19T00:00:00Z,Fox News,harvey weinstein,8
+2017-11-19T00:00:00Z,Fox News,james toback,0
+2017-11-19T00:00:00Z,Fox News,john conyers,0
+2017-11-19T00:00:00Z,Fox News,john lasseter,0
+2017-11-19T00:00:00Z,Fox News,kevin spacey,1
+2017-11-19T00:00:00Z,Fox News,louis ck,1
+2017-11-19T00:00:00Z,Fox News,roy moore,14
+2017-11-19T00:00:00Z,Fox News,russell simmons,0
+2017-11-19T00:00:00Z,Fox News,trent franks,1
+2017-11-19T00:00:00Z,MSNBC,al franken,11
+2017-11-19T00:00:00Z,MSNBC,brett ratner,0
+2017-11-19T00:00:00Z,MSNBC,charlie rose,0
+2017-11-19T00:00:00Z,MSNBC,glenn thrush,0
+2017-11-19T00:00:00Z,MSNBC,harvey weinstein,5
+2017-11-19T00:00:00Z,MSNBC,jeffrey tambor,0
+2017-11-19T00:00:00Z,MSNBC,john conyers,0
+2017-11-19T00:00:00Z,MSNBC,john lasseter,0
+2017-11-19T00:00:00Z,MSNBC,kevin spacey,1
+2017-11-19T00:00:00Z,MSNBC,louis ck,0
+2017-11-19T00:00:00Z,MSNBC,mark halperin,0
+2017-11-19T00:00:00Z,MSNBC,matt lauer,0
+2017-11-19T00:00:00Z,MSNBC,roy moore,14
+2017-11-19T00:00:00Z,MSNBC,russell simmons,0
+2017-11-20T00:00:00Z,CNN,al franken,9
+2017-11-20T00:00:00Z,CNN,charlie rose,0
+2017-11-20T00:00:00Z,CNN,dustin hoffman,0
+2017-11-20T00:00:00Z,CNN,glenn thrush,0
+2017-11-20T00:00:00Z,CNN,harvey weinstein,1
+2017-11-20T00:00:00Z,CNN,jeffrey tambor,1
+2017-11-20T00:00:00Z,CNN,john conyers,0
+2017-11-20T00:00:00Z,CNN,john lasseter,0
+2017-11-20T00:00:00Z,CNN,kevin spacey,0
+2017-11-20T00:00:00Z,CNN,louis ck,0
+2017-11-20T00:00:00Z,CNN,mark halperin,0
+2017-11-20T00:00:00Z,CNN,nick carter,0
+2017-11-20T00:00:00Z,CNN,roy moore,17
+2017-11-20T00:00:00Z,CNN,russell simmons,0
+2017-11-20T00:00:00Z,Fox News,al franken,14
+2017-11-20T00:00:00Z,Fox News,charlie rose,2
+2017-11-20T00:00:00Z,Fox News,glenn thrush,0
+2017-11-20T00:00:00Z,Fox News,harvey weinstein,2
+2017-11-20T00:00:00Z,Fox News,james toback,0
+2017-11-20T00:00:00Z,Fox News,john conyers,0
+2017-11-20T00:00:00Z,Fox News,john lasseter,0
+2017-11-20T00:00:00Z,Fox News,kevin spacey,0
+2017-11-20T00:00:00Z,Fox News,louis ck,0
+2017-11-20T00:00:00Z,Fox News,roy moore,13
+2017-11-20T00:00:00Z,Fox News,russell simmons,2
+2017-11-20T00:00:00Z,Fox News,trent franks,0
+2017-11-20T00:00:00Z,MSNBC,al franken,13
+2017-11-20T00:00:00Z,MSNBC,brett ratner,1
+2017-11-20T00:00:00Z,MSNBC,charlie rose,1
+2017-11-20T00:00:00Z,MSNBC,glenn thrush,0
+2017-11-20T00:00:00Z,MSNBC,harvey weinstein,3
+2017-11-20T00:00:00Z,MSNBC,jeffrey tambor,1
+2017-11-20T00:00:00Z,MSNBC,john conyers,0
+2017-11-20T00:00:00Z,MSNBC,john lasseter,0
+2017-11-20T00:00:00Z,MSNBC,kevin spacey,1
+2017-11-20T00:00:00Z,MSNBC,louis ck,0
+2017-11-20T00:00:00Z,MSNBC,mark halperin,1
+2017-11-20T00:00:00Z,MSNBC,matt lauer,0
+2017-11-20T00:00:00Z,MSNBC,roy moore,15
+2017-11-20T00:00:00Z,MSNBC,russell simmons,1
+2017-11-21T00:00:00Z,CNN,al franken,14
+2017-11-21T00:00:00Z,CNN,charlie rose,17
+2017-11-21T00:00:00Z,CNN,dustin hoffman,0
+2017-11-21T00:00:00Z,CNN,glenn thrush,1
+2017-11-21T00:00:00Z,CNN,harvey weinstein,5
+2017-11-21T00:00:00Z,CNN,jeffrey tambor,0
+2017-11-21T00:00:00Z,CNN,john conyers,5
+2017-11-21T00:00:00Z,CNN,john lasseter,0
+2017-11-21T00:00:00Z,CNN,kevin spacey,2
+2017-11-21T00:00:00Z,CNN,louis ck,0
+2017-11-21T00:00:00Z,CNN,mark halperin,0
+2017-11-21T00:00:00Z,CNN,nick carter,0
+2017-11-21T00:00:00Z,CNN,roy moore,18
+2017-11-21T00:00:00Z,CNN,russell simmons,0
+2017-11-21T00:00:00Z,Fox News,al franken,14
+2017-11-21T00:00:00Z,Fox News,charlie rose,21
+2017-11-21T00:00:00Z,Fox News,glenn thrush,6
+2017-11-21T00:00:00Z,Fox News,harvey weinstein,6
+2017-11-21T00:00:00Z,Fox News,james toback,1
+2017-11-21T00:00:00Z,Fox News,john conyers,10
+2017-11-21T00:00:00Z,Fox News,john lasseter,0
+2017-11-21T00:00:00Z,Fox News,kevin spacey,0
+2017-11-21T00:00:00Z,Fox News,louis ck,0
+2017-11-21T00:00:00Z,Fox News,roy moore,11
+2017-11-21T00:00:00Z,Fox News,russell simmons,0
+2017-11-21T00:00:00Z,Fox News,trent franks,0
+2017-11-21T00:00:00Z,MSNBC,al franken,15
+2017-11-21T00:00:00Z,MSNBC,brett ratner,0
+2017-11-21T00:00:00Z,MSNBC,charlie rose,19
+2017-11-21T00:00:00Z,MSNBC,glenn thrush,5
+2017-11-21T00:00:00Z,MSNBC,harvey weinstein,7
+2017-11-21T00:00:00Z,MSNBC,jeffrey tambor,0
+2017-11-21T00:00:00Z,MSNBC,john conyers,5
+2017-11-21T00:00:00Z,MSNBC,john lasseter,0
+2017-11-21T00:00:00Z,MSNBC,kevin spacey,1
+2017-11-21T00:00:00Z,MSNBC,louis ck,3
+2017-11-21T00:00:00Z,MSNBC,mark halperin,3
+2017-11-21T00:00:00Z,MSNBC,matt lauer,0
+2017-11-21T00:00:00Z,MSNBC,roy moore,20
+2017-11-21T00:00:00Z,MSNBC,russell simmons,0
+2017-11-22T00:00:00Z,CNN,al franken,12
+2017-11-22T00:00:00Z,CNN,charlie rose,17
+2017-11-22T00:00:00Z,CNN,dustin hoffman,0
+2017-11-22T00:00:00Z,CNN,glenn thrush,1
+2017-11-22T00:00:00Z,CNN,harvey weinstein,2
+2017-11-22T00:00:00Z,CNN,jeffrey tambor,0
+2017-11-22T00:00:00Z,CNN,john conyers,14
+2017-11-22T00:00:00Z,CNN,john lasseter,2
+2017-11-22T00:00:00Z,CNN,kevin spacey,0
+2017-11-22T00:00:00Z,CNN,louis ck,0
+2017-11-22T00:00:00Z,CNN,mark halperin,1
+2017-11-22T00:00:00Z,CNN,nick carter,0
+2017-11-22T00:00:00Z,CNN,roy moore,22
+2017-11-22T00:00:00Z,CNN,russell simmons,0
+2017-11-22T00:00:00Z,Fox News,al franken,14
+2017-11-22T00:00:00Z,Fox News,charlie rose,10
+2017-11-22T00:00:00Z,Fox News,glenn thrush,0
+2017-11-22T00:00:00Z,Fox News,harvey weinstein,7
+2017-11-22T00:00:00Z,Fox News,james toback,0
+2017-11-22T00:00:00Z,Fox News,john conyers,17
+2017-11-22T00:00:00Z,Fox News,john lasseter,1
+2017-11-22T00:00:00Z,Fox News,kevin spacey,1
+2017-11-22T00:00:00Z,Fox News,louis ck,0
+2017-11-22T00:00:00Z,Fox News,roy moore,18
+2017-11-22T00:00:00Z,Fox News,russell simmons,0
+2017-11-22T00:00:00Z,Fox News,trent franks,0
+2017-11-22T00:00:00Z,MSNBC,al franken,8
+2017-11-22T00:00:00Z,MSNBC,brett ratner,0
+2017-11-22T00:00:00Z,MSNBC,charlie rose,14
+2017-11-22T00:00:00Z,MSNBC,glenn thrush,0
+2017-11-22T00:00:00Z,MSNBC,harvey weinstein,2
+2017-11-22T00:00:00Z,MSNBC,jeffrey tambor,0
+2017-11-22T00:00:00Z,MSNBC,john conyers,17
+2017-11-22T00:00:00Z,MSNBC,john lasseter,1
+2017-11-22T00:00:00Z,MSNBC,kevin spacey,1
+2017-11-22T00:00:00Z,MSNBC,louis ck,0
+2017-11-22T00:00:00Z,MSNBC,mark halperin,2
+2017-11-22T00:00:00Z,MSNBC,matt lauer,0
+2017-11-22T00:00:00Z,MSNBC,roy moore,22
+2017-11-22T00:00:00Z,MSNBC,russell simmons,0
+2017-11-23T00:00:00Z,CNN,al franken,6
+2017-11-23T00:00:00Z,CNN,charlie rose,0
+2017-11-23T00:00:00Z,CNN,dustin hoffman,0
+2017-11-23T00:00:00Z,CNN,glenn thrush,0
+2017-11-23T00:00:00Z,CNN,harvey weinstein,0
+2017-11-23T00:00:00Z,CNN,jeffrey tambor,0
+2017-11-23T00:00:00Z,CNN,john conyers,9
+2017-11-23T00:00:00Z,CNN,john lasseter,0
+2017-11-23T00:00:00Z,CNN,kevin spacey,0
+2017-11-23T00:00:00Z,CNN,louis ck,0
+2017-11-23T00:00:00Z,CNN,mark halperin,0
+2017-11-23T00:00:00Z,CNN,nick carter,1
+2017-11-23T00:00:00Z,CNN,roy moore,10
+2017-11-23T00:00:00Z,CNN,russell simmons,1
+2017-11-23T00:00:00Z,Fox News,al franken,14
+2017-11-23T00:00:00Z,Fox News,charlie rose,2
+2017-11-23T00:00:00Z,Fox News,glenn thrush,0
+2017-11-23T00:00:00Z,Fox News,harvey weinstein,5
+2017-11-23T00:00:00Z,Fox News,james toback,0
+2017-11-23T00:00:00Z,Fox News,john conyers,11
+2017-11-23T00:00:00Z,Fox News,john lasseter,2
+2017-11-23T00:00:00Z,Fox News,kevin spacey,2
+2017-11-23T00:00:00Z,Fox News,louis ck,0
+2017-11-23T00:00:00Z,Fox News,roy moore,9
+2017-11-23T00:00:00Z,Fox News,russell simmons,0
+2017-11-23T00:00:00Z,Fox News,trent franks,1
+2017-11-23T00:00:00Z,MSNBC,al franken,11
+2017-11-23T00:00:00Z,MSNBC,brett ratner,0
+2017-11-23T00:00:00Z,MSNBC,charlie rose,0
+2017-11-23T00:00:00Z,MSNBC,glenn thrush,0
+2017-11-23T00:00:00Z,MSNBC,harvey weinstein,1
+2017-11-23T00:00:00Z,MSNBC,jeffrey tambor,0
+2017-11-23T00:00:00Z,MSNBC,john conyers,7
+2017-11-23T00:00:00Z,MSNBC,john lasseter,0
+2017-11-23T00:00:00Z,MSNBC,kevin spacey,0
+2017-11-23T00:00:00Z,MSNBC,louis ck,0
+2017-11-23T00:00:00Z,MSNBC,mark halperin,0
+2017-11-23T00:00:00Z,MSNBC,matt lauer,1
+2017-11-23T00:00:00Z,MSNBC,roy moore,14
+2017-11-23T00:00:00Z,MSNBC,russell simmons,0
+2017-11-24T00:00:00Z,CNN,al franken,11
+2017-11-24T00:00:00Z,CNN,charlie rose,1
+2017-11-24T00:00:00Z,CNN,dustin hoffman,1
+2017-11-24T00:00:00Z,CNN,glenn thrush,0
+2017-11-24T00:00:00Z,CNN,harvey weinstein,2
+2017-11-24T00:00:00Z,CNN,jeffrey tambor,0
+2017-11-24T00:00:00Z,CNN,john conyers,7
+2017-11-24T00:00:00Z,CNN,john lasseter,0
+2017-11-24T00:00:00Z,CNN,kevin spacey,0
+2017-11-24T00:00:00Z,CNN,louis ck,0
+2017-11-24T00:00:00Z,CNN,mark halperin,1
+2017-11-24T00:00:00Z,CNN,nick carter,0
+2017-11-24T00:00:00Z,CNN,roy moore,5
+2017-11-24T00:00:00Z,CNN,russell simmons,0
+2017-11-24T00:00:00Z,Fox News,al franken,10
+2017-11-24T00:00:00Z,Fox News,charlie rose,2
+2017-11-24T00:00:00Z,Fox News,glenn thrush,0
+2017-11-24T00:00:00Z,Fox News,harvey weinstein,0
+2017-11-24T00:00:00Z,Fox News,james toback,0
+2017-11-24T00:00:00Z,Fox News,john conyers,5
+2017-11-24T00:00:00Z,Fox News,john lasseter,0
+2017-11-24T00:00:00Z,Fox News,kevin spacey,0
+2017-11-24T00:00:00Z,Fox News,louis ck,0
+2017-11-24T00:00:00Z,Fox News,roy moore,8
+2017-11-24T00:00:00Z,Fox News,russell simmons,0
+2017-11-24T00:00:00Z,Fox News,trent franks,0
+2017-11-24T00:00:00Z,MSNBC,al franken,7
+2017-11-24T00:00:00Z,MSNBC,brett ratner,0
+2017-11-24T00:00:00Z,MSNBC,charlie rose,0
+2017-11-24T00:00:00Z,MSNBC,glenn thrush,0
+2017-11-24T00:00:00Z,MSNBC,harvey weinstein,4
+2017-11-24T00:00:00Z,MSNBC,jeffrey tambor,0
+2017-11-24T00:00:00Z,MSNBC,john conyers,4
+2017-11-24T00:00:00Z,MSNBC,john lasseter,0
+2017-11-24T00:00:00Z,MSNBC,kevin spacey,0
+2017-11-24T00:00:00Z,MSNBC,louis ck,0
+2017-11-24T00:00:00Z,MSNBC,mark halperin,0
+2017-11-24T00:00:00Z,MSNBC,matt lauer,0
+2017-11-24T00:00:00Z,MSNBC,roy moore,8
+2017-11-24T00:00:00Z,MSNBC,russell simmons,0
+2017-11-25T00:00:00Z,CNN,al franken,2
+2017-11-25T00:00:00Z,CNN,charlie rose,1
+2017-11-25T00:00:00Z,CNN,dustin hoffman,0
+2017-11-25T00:00:00Z,CNN,glenn thrush,1
+2017-11-25T00:00:00Z,CNN,harvey weinstein,1
+2017-11-25T00:00:00Z,CNN,jeffrey tambor,0
+2017-11-25T00:00:00Z,CNN,john conyers,1
+2017-11-25T00:00:00Z,CNN,john lasseter,0
+2017-11-25T00:00:00Z,CNN,kevin spacey,0
+2017-11-25T00:00:00Z,CNN,louis ck,1
+2017-11-25T00:00:00Z,CNN,mark halperin,0
+2017-11-25T00:00:00Z,CNN,nick carter,0
+2017-11-25T00:00:00Z,CNN,roy moore,5
+2017-11-25T00:00:00Z,CNN,russell simmons,0
+2017-11-25T00:00:00Z,Fox News,al franken,11
+2017-11-25T00:00:00Z,Fox News,charlie rose,7
+2017-11-25T00:00:00Z,Fox News,glenn thrush,0
+2017-11-25T00:00:00Z,Fox News,harvey weinstein,5
+2017-11-25T00:00:00Z,Fox News,james toback,0
+2017-11-25T00:00:00Z,Fox News,john conyers,10
+2017-11-25T00:00:00Z,Fox News,john lasseter,0
+2017-11-25T00:00:00Z,Fox News,kevin spacey,0
+2017-11-25T00:00:00Z,Fox News,louis ck,0
+2017-11-25T00:00:00Z,Fox News,roy moore,7
+2017-11-25T00:00:00Z,Fox News,russell simmons,0
+2017-11-25T00:00:00Z,Fox News,trent franks,0
+2017-11-25T00:00:00Z,MSNBC,al franken,6
+2017-11-25T00:00:00Z,MSNBC,brett ratner,0
+2017-11-25T00:00:00Z,MSNBC,charlie rose,2
+2017-11-25T00:00:00Z,MSNBC,glenn thrush,0
+2017-11-25T00:00:00Z,MSNBC,harvey weinstein,0
+2017-11-25T00:00:00Z,MSNBC,jeffrey tambor,0
+2017-11-25T00:00:00Z,MSNBC,john conyers,1
+2017-11-25T00:00:00Z,MSNBC,john lasseter,0
+2017-11-25T00:00:00Z,MSNBC,kevin spacey,0
+2017-11-25T00:00:00Z,MSNBC,louis ck,0
+2017-11-25T00:00:00Z,MSNBC,mark halperin,0
+2017-11-25T00:00:00Z,MSNBC,matt lauer,0
+2017-11-25T00:00:00Z,MSNBC,roy moore,9
+2017-11-25T00:00:00Z,MSNBC,russell simmons,0
+2017-11-26T00:00:00Z,CNN,al franken,5
+2017-11-26T00:00:00Z,CNN,charlie rose,1
+2017-11-26T00:00:00Z,CNN,harvey weinstein,2
+2017-11-26T00:00:00Z,CNN,john conyers,2
+2017-11-26T00:00:00Z,CNN,kevin spacey,0
+2017-11-26T00:00:00Z,CNN,mark halperin,1
+2017-11-26T00:00:00Z,CNN,matt lauer,0
+2017-11-26T00:00:00Z,CNN,roy moore,6
+2017-11-26T00:00:00Z,CNN,russell simmons,0
+2017-11-26T00:00:00Z,Fox News,al franken,12
+2017-11-26T00:00:00Z,Fox News,blake farenthold,0
+2017-11-26T00:00:00Z,Fox News,charlie rose,3
+2017-11-26T00:00:00Z,Fox News,dustin hoffman,0
+2017-11-26T00:00:00Z,Fox News,garrison keillor,0
+2017-11-26T00:00:00Z,Fox News,glenn thrush,2
+2017-11-26T00:00:00Z,Fox News,harvey weinstein,2
+2017-11-26T00:00:00Z,Fox News,john conyers,7
+2017-11-26T00:00:00Z,Fox News,kevin spacey,1
+2017-11-26T00:00:00Z,Fox News,louis ck,1
+2017-11-26T00:00:00Z,Fox News,mark halperin,0
+2017-11-26T00:00:00Z,Fox News,matt lauer,0
+2017-11-26T00:00:00Z,Fox News,matt zimmerman,0
+2017-11-26T00:00:00Z,Fox News,roy moore,9
+2017-11-26T00:00:00Z,Fox News,russell simmons,0
+2017-11-26T00:00:00Z,Fox News,trent franks,0
+2017-11-26T00:00:00Z,MSNBC,al franken,5
+2017-11-26T00:00:00Z,MSNBC,charlie rose,3
+2017-11-26T00:00:00Z,MSNBC,garrison keillor,0
+2017-11-26T00:00:00Z,MSNBC,harvey weinstein,2
+2017-11-26T00:00:00Z,MSNBC,john conyers,5
+2017-11-26T00:00:00Z,MSNBC,kevin spacey,0
+2017-11-26T00:00:00Z,MSNBC,mark halperin,1
+2017-11-26T00:00:00Z,MSNBC,matt lauer,0
+2017-11-26T00:00:00Z,MSNBC,matt zimmerman,0
+2017-11-26T00:00:00Z,MSNBC,roy moore,9
+2017-11-26T00:00:00Z,MSNBC,ruben kihuen,0
+2017-11-26T00:00:00Z,MSNBC,russell simmons,0
+2017-11-27T00:00:00Z,CNN,al franken,16
+2017-11-27T00:00:00Z,CNN,charlie rose,2
+2017-11-27T00:00:00Z,CNN,harvey weinstein,5
+2017-11-27T00:00:00Z,CNN,john conyers,15
+2017-11-27T00:00:00Z,CNN,kevin spacey,1
+2017-11-27T00:00:00Z,CNN,mark halperin,1
+2017-11-27T00:00:00Z,CNN,matt lauer,0
+2017-11-27T00:00:00Z,CNN,roy moore,16
+2017-11-27T00:00:00Z,CNN,russell simmons,0
+2017-11-27T00:00:00Z,Fox News,al franken,18
+2017-11-27T00:00:00Z,Fox News,blake farenthold,0
+2017-11-27T00:00:00Z,Fox News,charlie rose,2
+2017-11-27T00:00:00Z,Fox News,dustin hoffman,0
+2017-11-27T00:00:00Z,Fox News,garrison keillor,0
+2017-11-27T00:00:00Z,Fox News,glenn thrush,0
+2017-11-27T00:00:00Z,Fox News,harvey weinstein,3
+2017-11-27T00:00:00Z,Fox News,john conyers,17
+2017-11-27T00:00:00Z,Fox News,kevin spacey,1
+2017-11-27T00:00:00Z,Fox News,louis ck,0
+2017-11-27T00:00:00Z,Fox News,mark halperin,0
+2017-11-27T00:00:00Z,Fox News,matt lauer,0
+2017-11-27T00:00:00Z,Fox News,matt zimmerman,0
+2017-11-27T00:00:00Z,Fox News,roy moore,13
+2017-11-27T00:00:00Z,Fox News,russell simmons,0
+2017-11-27T00:00:00Z,Fox News,trent franks,0
+2017-11-27T00:00:00Z,MSNBC,al franken,13
+2017-11-27T00:00:00Z,MSNBC,charlie rose,0
+2017-11-27T00:00:00Z,MSNBC,garrison keillor,0
+2017-11-27T00:00:00Z,MSNBC,harvey weinstein,5
+2017-11-27T00:00:00Z,MSNBC,john conyers,14
+2017-11-27T00:00:00Z,MSNBC,kevin spacey,0
+2017-11-27T00:00:00Z,MSNBC,mark halperin,0
+2017-11-27T00:00:00Z,MSNBC,matt lauer,1
+2017-11-27T00:00:00Z,MSNBC,matt zimmerman,0
+2017-11-27T00:00:00Z,MSNBC,roy moore,16
+2017-11-27T00:00:00Z,MSNBC,ruben kihuen,0
+2017-11-27T00:00:00Z,MSNBC,russell simmons,0
+2017-11-28T00:00:00Z,CNN,al franken,2
+2017-11-28T00:00:00Z,CNN,charlie rose,1
+2017-11-28T00:00:00Z,CNN,harvey weinstein,1
+2017-11-28T00:00:00Z,CNN,john conyers,4
+2017-11-28T00:00:00Z,CNN,kevin spacey,0
+2017-11-28T00:00:00Z,CNN,mark halperin,1
+2017-11-28T00:00:00Z,CNN,matt lauer,0
+2017-11-28T00:00:00Z,CNN,roy moore,14
+2017-11-28T00:00:00Z,CNN,russell simmons,0
+2017-11-28T00:00:00Z,Fox News,al franken,7
+2017-11-28T00:00:00Z,Fox News,blake farenthold,0
+2017-11-28T00:00:00Z,Fox News,charlie rose,2
+2017-11-28T00:00:00Z,Fox News,dustin hoffman,0
+2017-11-28T00:00:00Z,Fox News,garrison keillor,0
+2017-11-28T00:00:00Z,Fox News,glenn thrush,0
+2017-11-28T00:00:00Z,Fox News,harvey weinstein,7
+2017-11-28T00:00:00Z,Fox News,john conyers,17
+2017-11-28T00:00:00Z,Fox News,kevin spacey,0
+2017-11-28T00:00:00Z,Fox News,louis ck,0
+2017-11-28T00:00:00Z,Fox News,mark halperin,0
+2017-11-28T00:00:00Z,Fox News,matt lauer,0
+2017-11-28T00:00:00Z,Fox News,matt zimmerman,0
+2017-11-28T00:00:00Z,Fox News,roy moore,8
+2017-11-28T00:00:00Z,Fox News,russell simmons,0
+2017-11-28T00:00:00Z,Fox News,trent franks,0
+2017-11-28T00:00:00Z,MSNBC,al franken,7
+2017-11-28T00:00:00Z,MSNBC,charlie rose,0
+2017-11-28T00:00:00Z,MSNBC,garrison keillor,0
+2017-11-28T00:00:00Z,MSNBC,harvey weinstein,0
+2017-11-28T00:00:00Z,MSNBC,john conyers,9
+2017-11-28T00:00:00Z,MSNBC,kevin spacey,0
+2017-11-28T00:00:00Z,MSNBC,mark halperin,0
+2017-11-28T00:00:00Z,MSNBC,matt lauer,0
+2017-11-28T00:00:00Z,MSNBC,matt zimmerman,0
+2017-11-28T00:00:00Z,MSNBC,roy moore,18
+2017-11-28T00:00:00Z,MSNBC,ruben kihuen,0
+2017-11-28T00:00:00Z,MSNBC,russell simmons,0
+2017-11-29T00:00:00Z,CNN,al franken,2
+2017-11-29T00:00:00Z,CNN,charlie rose,4
+2017-11-29T00:00:00Z,CNN,harvey weinstein,6
+2017-11-29T00:00:00Z,CNN,john conyers,7
+2017-11-29T00:00:00Z,CNN,kevin spacey,0
+2017-11-29T00:00:00Z,CNN,mark halperin,0
+2017-11-29T00:00:00Z,CNN,matt lauer,9
+2017-11-29T00:00:00Z,CNN,roy moore,5
+2017-11-29T00:00:00Z,CNN,russell simmons,0
+2017-11-29T00:00:00Z,Fox News,al franken,6
+2017-11-29T00:00:00Z,Fox News,blake farenthold,0
+2017-11-29T00:00:00Z,Fox News,charlie rose,8
+2017-11-29T00:00:00Z,Fox News,dustin hoffman,0
+2017-11-29T00:00:00Z,Fox News,garrison keillor,2
+2017-11-29T00:00:00Z,Fox News,glenn thrush,0
+2017-11-29T00:00:00Z,Fox News,harvey weinstein,4
+2017-11-29T00:00:00Z,Fox News,john conyers,11
+2017-11-29T00:00:00Z,Fox News,kevin spacey,0
+2017-11-29T00:00:00Z,Fox News,louis ck,0
+2017-11-29T00:00:00Z,Fox News,mark halperin,2
+2017-11-29T00:00:00Z,Fox News,matt lauer,9
+2017-11-29T00:00:00Z,Fox News,matt zimmerman,0
+2017-11-29T00:00:00Z,Fox News,roy moore,5
+2017-11-29T00:00:00Z,Fox News,russell simmons,0
+2017-11-29T00:00:00Z,Fox News,trent franks,1
+2017-11-29T00:00:00Z,MSNBC,al franken,4
+2017-11-29T00:00:00Z,MSNBC,charlie rose,5
+2017-11-29T00:00:00Z,MSNBC,garrison keillor,2
+2017-11-29T00:00:00Z,MSNBC,harvey weinstein,6
+2017-11-29T00:00:00Z,MSNBC,john conyers,14
+2017-11-29T00:00:00Z,MSNBC,kevin spacey,1
+2017-11-29T00:00:00Z,MSNBC,mark halperin,1
+2017-11-29T00:00:00Z,MSNBC,matt lauer,11
+2017-11-29T00:00:00Z,MSNBC,matt zimmerman,1
+2017-11-29T00:00:00Z,MSNBC,roy moore,14
+2017-11-29T00:00:00Z,MSNBC,ruben kihuen,0
+2017-11-29T00:00:00Z,MSNBC,russell simmons,0
+2017-11-30T00:00:00Z,CNN,al franken,7
+2017-11-30T00:00:00Z,CNN,charlie rose,6
+2017-11-30T00:00:00Z,CNN,harvey weinstein,6
+2017-11-30T00:00:00Z,CNN,john conyers,10
+2017-11-30T00:00:00Z,CNN,kevin spacey,2
+2017-11-30T00:00:00Z,CNN,mark halperin,2
+2017-11-30T00:00:00Z,CNN,matt lauer,12
+2017-11-30T00:00:00Z,CNN,roy moore,7
+2017-11-30T00:00:00Z,CNN,russell simmons,1
+2017-11-30T00:00:00Z,Fox News,al franken,14
+2017-11-30T00:00:00Z,Fox News,blake farenthold,0
+2017-11-30T00:00:00Z,Fox News,charlie rose,8
+2017-11-30T00:00:00Z,Fox News,dustin hoffman,2
+2017-11-30T00:00:00Z,Fox News,garrison keillor,3
+2017-11-30T00:00:00Z,Fox News,glenn thrush,0
+2017-11-30T00:00:00Z,Fox News,harvey weinstein,11
+2017-11-30T00:00:00Z,Fox News,john conyers,16
+2017-11-30T00:00:00Z,Fox News,kevin spacey,0
+2017-11-30T00:00:00Z,Fox News,louis ck,1
+2017-11-30T00:00:00Z,Fox News,mark halperin,0
+2017-11-30T00:00:00Z,Fox News,matt lauer,19
+2017-11-30T00:00:00Z,Fox News,matt zimmerman,2
+2017-11-30T00:00:00Z,Fox News,roy moore,13
+2017-11-30T00:00:00Z,Fox News,russell simmons,0
+2017-11-30T00:00:00Z,Fox News,trent franks,0
+2017-11-30T00:00:00Z,MSNBC,al franken,3
+2017-11-30T00:00:00Z,MSNBC,charlie rose,8
+2017-11-30T00:00:00Z,MSNBC,garrison keillor,2
+2017-11-30T00:00:00Z,MSNBC,harvey weinstein,5
+2017-11-30T00:00:00Z,MSNBC,john conyers,6
+2017-11-30T00:00:00Z,MSNBC,kevin spacey,0
+2017-11-30T00:00:00Z,MSNBC,mark halperin,2
+2017-11-30T00:00:00Z,MSNBC,matt lauer,16
+2017-11-30T00:00:00Z,MSNBC,matt zimmerman,0
+2017-11-30T00:00:00Z,MSNBC,roy moore,6
+2017-11-30T00:00:00Z,MSNBC,ruben kihuen,0
+2017-11-30T00:00:00Z,MSNBC,russell simmons,4
+2017-12-01T00:00:00Z,CNN,al franken,3
+2017-12-01T00:00:00Z,CNN,charlie rose,0
+2017-12-01T00:00:00Z,CNN,harvey weinstein,1
+2017-12-01T00:00:00Z,CNN,john conyers,5
+2017-12-01T00:00:00Z,CNN,kevin spacey,0
+2017-12-01T00:00:00Z,CNN,mark halperin,0
+2017-12-01T00:00:00Z,CNN,matt lauer,3
+2017-12-01T00:00:00Z,CNN,roy moore,8
+2017-12-01T00:00:00Z,CNN,russell simmons,0
+2017-12-01T00:00:00Z,Fox News,al franken,7
+2017-12-01T00:00:00Z,Fox News,blake farenthold,0
+2017-12-01T00:00:00Z,Fox News,charlie rose,1
+2017-12-01T00:00:00Z,Fox News,dustin hoffman,0
+2017-12-01T00:00:00Z,Fox News,garrison keillor,1
+2017-12-01T00:00:00Z,Fox News,glenn thrush,0
+2017-12-01T00:00:00Z,Fox News,harvey weinstein,2
+2017-12-01T00:00:00Z,Fox News,john conyers,13
+2017-12-01T00:00:00Z,Fox News,kevin spacey,0
+2017-12-01T00:00:00Z,Fox News,louis ck,0
+2017-12-01T00:00:00Z,Fox News,mark halperin,0
+2017-12-01T00:00:00Z,Fox News,matt lauer,13
+2017-12-01T00:00:00Z,Fox News,matt zimmerman,0
+2017-12-01T00:00:00Z,Fox News,roy moore,1
+2017-12-01T00:00:00Z,Fox News,russell simmons,1
+2017-12-01T00:00:00Z,Fox News,trent franks,0
+2017-12-01T00:00:00Z,MSNBC,al franken,2
+2017-12-01T00:00:00Z,MSNBC,charlie rose,0
+2017-12-01T00:00:00Z,MSNBC,garrison keillor,0
+2017-12-01T00:00:00Z,MSNBC,harvey weinstein,0
+2017-12-01T00:00:00Z,MSNBC,john conyers,8
+2017-12-01T00:00:00Z,MSNBC,kevin spacey,0
+2017-12-01T00:00:00Z,MSNBC,mark halperin,0
+2017-12-01T00:00:00Z,MSNBC,matt lauer,1
+2017-12-01T00:00:00Z,MSNBC,matt zimmerman,0
+2017-12-01T00:00:00Z,MSNBC,roy moore,7
+2017-12-01T00:00:00Z,MSNBC,ruben kihuen,0
+2017-12-01T00:00:00Z,MSNBC,russell simmons,0
+2017-12-02T00:00:00Z,CNN,al franken,0
+2017-12-02T00:00:00Z,CNN,charlie rose,0
+2017-12-02T00:00:00Z,CNN,harvey weinstein,1
+2017-12-02T00:00:00Z,CNN,john conyers,0
+2017-12-02T00:00:00Z,CNN,kevin spacey,0
+2017-12-02T00:00:00Z,CNN,mark halperin,0
+2017-12-02T00:00:00Z,CNN,matt lauer,1
+2017-12-02T00:00:00Z,CNN,roy moore,2
+2017-12-02T00:00:00Z,CNN,russell simmons,0
+2017-12-02T00:00:00Z,Fox News,al franken,9
+2017-12-02T00:00:00Z,Fox News,blake farenthold,1
+2017-12-02T00:00:00Z,Fox News,charlie rose,1
+2017-12-02T00:00:00Z,Fox News,dustin hoffman,0
+2017-12-02T00:00:00Z,Fox News,garrison keillor,0
+2017-12-02T00:00:00Z,Fox News,glenn thrush,0
+2017-12-02T00:00:00Z,Fox News,harvey weinstein,1
+2017-12-02T00:00:00Z,Fox News,john conyers,9
+2017-12-02T00:00:00Z,Fox News,kevin spacey,0
+2017-12-02T00:00:00Z,Fox News,louis ck,0
+2017-12-02T00:00:00Z,Fox News,mark halperin,0
+2017-12-02T00:00:00Z,Fox News,matt lauer,6
+2017-12-02T00:00:00Z,Fox News,matt zimmerman,0
+2017-12-02T00:00:00Z,Fox News,roy moore,2
+2017-12-02T00:00:00Z,Fox News,russell simmons,0
+2017-12-02T00:00:00Z,Fox News,trent franks,0
+2017-12-02T00:00:00Z,MSNBC,al franken,0
+2017-12-02T00:00:00Z,MSNBC,charlie rose,0
+2017-12-02T00:00:00Z,MSNBC,garrison keillor,0
+2017-12-02T00:00:00Z,MSNBC,harvey weinstein,0
+2017-12-02T00:00:00Z,MSNBC,john conyers,0
+2017-12-02T00:00:00Z,MSNBC,kevin spacey,0
+2017-12-02T00:00:00Z,MSNBC,mark halperin,0
+2017-12-02T00:00:00Z,MSNBC,matt lauer,0
+2017-12-02T00:00:00Z,MSNBC,matt zimmerman,0
+2017-12-02T00:00:00Z,MSNBC,roy moore,7
+2017-12-02T00:00:00Z,MSNBC,ruben kihuen,1
+2017-12-02T00:00:00Z,MSNBC,russell simmons,0
+2017-12-03T00:00:00Z,CNN,al franken,0
+2017-12-03T00:00:00Z,CNN,blake farenthold,0
+2017-12-03T00:00:00Z,CNN,harvey weinstein,1
+2017-12-03T00:00:00Z,CNN,james levine,0
+2017-12-03T00:00:00Z,CNN,john conyers,0
+2017-12-03T00:00:00Z,CNN,kevin spacey,1
+2017-12-03T00:00:00Z,CNN,matt lauer,1
+2017-12-03T00:00:00Z,CNN,roy moore,5
+2017-12-03T00:00:00Z,CNN,trent franks,1
+2017-12-03T00:00:00Z,Fox News,al franken,6
+2017-12-03T00:00:00Z,Fox News,blake farenthold,0
+2017-12-03T00:00:00Z,Fox News,brett ratner,0
+2017-12-03T00:00:00Z,Fox News,charlie rose,1
+2017-12-03T00:00:00Z,Fox News,harvey weinstein,4
+2017-12-03T00:00:00Z,Fox News,john conyers,4
+2017-12-03T00:00:00Z,Fox News,kevin spacey,0
+2017-12-03T00:00:00Z,Fox News,louis ck,0
+2017-12-03T00:00:00Z,Fox News,matt lauer,6
+2017-12-03T00:00:00Z,Fox News,roy moore,5
+2017-12-03T00:00:00Z,Fox News,trent franks,0
+2017-12-03T00:00:00Z,MSNBC,al franken,3
+2017-12-03T00:00:00Z,MSNBC,blake farenthold,1
+2017-12-03T00:00:00Z,MSNBC,charlie rose,2
+2017-12-03T00:00:00Z,MSNBC,garrison keillor,1
+2017-12-03T00:00:00Z,MSNBC,harvey weinstein,2
+2017-12-03T00:00:00Z,MSNBC,james levine,0
+2017-12-03T00:00:00Z,MSNBC,john conyers,1
+2017-12-03T00:00:00Z,MSNBC,kevin spacey,0
+2017-12-03T00:00:00Z,MSNBC,mark halperin,1
+2017-12-03T00:00:00Z,MSNBC,matt lauer,3
+2017-12-03T00:00:00Z,MSNBC,roy moore,5
+2017-12-03T00:00:00Z,MSNBC,ruben kihuen,0
+2017-12-03T00:00:00Z,MSNBC,trent franks,0
+2017-12-04T00:00:00Z,CNN,al franken,2
+2017-12-04T00:00:00Z,CNN,blake farenthold,0
+2017-12-04T00:00:00Z,CNN,harvey weinstein,0
+2017-12-04T00:00:00Z,CNN,james levine,2
+2017-12-04T00:00:00Z,CNN,john conyers,1
+2017-12-04T00:00:00Z,CNN,kevin spacey,0
+2017-12-04T00:00:00Z,CNN,matt lauer,1
+2017-12-04T00:00:00Z,CNN,roy moore,10
+2017-12-04T00:00:00Z,CNN,trent franks,0
+2017-12-04T00:00:00Z,Fox News,al franken,1
+2017-12-04T00:00:00Z,Fox News,blake farenthold,0
+2017-12-04T00:00:00Z,Fox News,brett ratner,0
+2017-12-04T00:00:00Z,Fox News,charlie rose,0
+2017-12-04T00:00:00Z,Fox News,harvey weinstein,1
+2017-12-04T00:00:00Z,Fox News,john conyers,3
+2017-12-04T00:00:00Z,Fox News,kevin spacey,0
+2017-12-04T00:00:00Z,Fox News,louis ck,0
+2017-12-04T00:00:00Z,Fox News,matt lauer,0
+2017-12-04T00:00:00Z,Fox News,roy moore,9
+2017-12-04T00:00:00Z,Fox News,trent franks,0
+2017-12-04T00:00:00Z,MSNBC,al franken,2
+2017-12-04T00:00:00Z,MSNBC,blake farenthold,0
+2017-12-04T00:00:00Z,MSNBC,charlie rose,1
+2017-12-04T00:00:00Z,MSNBC,garrison keillor,0
+2017-12-04T00:00:00Z,MSNBC,harvey weinstein,3
+2017-12-04T00:00:00Z,MSNBC,james levine,2
+2017-12-04T00:00:00Z,MSNBC,john conyers,3
+2017-12-04T00:00:00Z,MSNBC,kevin spacey,0
+2017-12-04T00:00:00Z,MSNBC,mark halperin,0
+2017-12-04T00:00:00Z,MSNBC,matt lauer,1
+2017-12-04T00:00:00Z,MSNBC,roy moore,14
+2017-12-04T00:00:00Z,MSNBC,ruben kihuen,0
+2017-12-04T00:00:00Z,MSNBC,trent franks,0
+2017-12-05T00:00:00Z,CNN,al franken,6
+2017-12-05T00:00:00Z,CNN,blake farenthold,1
+2017-12-05T00:00:00Z,CNN,harvey weinstein,3
+2017-12-05T00:00:00Z,CNN,james levine,0
+2017-12-05T00:00:00Z,CNN,john conyers,10
+2017-12-05T00:00:00Z,CNN,kevin spacey,1
+2017-12-05T00:00:00Z,CNN,matt lauer,2
+2017-12-05T00:00:00Z,CNN,roy moore,15
+2017-12-05T00:00:00Z,CNN,trent franks,0
+2017-12-05T00:00:00Z,Fox News,al franken,4
+2017-12-05T00:00:00Z,Fox News,blake farenthold,1
+2017-12-05T00:00:00Z,Fox News,brett ratner,0
+2017-12-05T00:00:00Z,Fox News,charlie rose,0
+2017-12-05T00:00:00Z,Fox News,harvey weinstein,1
+2017-12-05T00:00:00Z,Fox News,john conyers,11
+2017-12-05T00:00:00Z,Fox News,kevin spacey,1
+2017-12-05T00:00:00Z,Fox News,louis ck,0
+2017-12-05T00:00:00Z,Fox News,matt lauer,0
+2017-12-05T00:00:00Z,Fox News,roy moore,12
+2017-12-05T00:00:00Z,Fox News,trent franks,0
+2017-12-05T00:00:00Z,MSNBC,al franken,6
+2017-12-05T00:00:00Z,MSNBC,blake farenthold,0
+2017-12-05T00:00:00Z,MSNBC,charlie rose,0
+2017-12-05T00:00:00Z,MSNBC,garrison keillor,0
+2017-12-05T00:00:00Z,MSNBC,harvey weinstein,1
+2017-12-05T00:00:00Z,MSNBC,james levine,0
+2017-12-05T00:00:00Z,MSNBC,john conyers,9
+2017-12-05T00:00:00Z,MSNBC,kevin spacey,0
+2017-12-05T00:00:00Z,MSNBC,mark halperin,0
+2017-12-05T00:00:00Z,MSNBC,matt lauer,0
+2017-12-05T00:00:00Z,MSNBC,roy moore,20
+2017-12-05T00:00:00Z,MSNBC,ruben kihuen,0
+2017-12-05T00:00:00Z,MSNBC,trent franks,0
+2017-12-06T00:00:00Z,CNN,al franken,14
+2017-12-06T00:00:00Z,CNN,blake farenthold,0
+2017-12-06T00:00:00Z,CNN,harvey weinstein,2
+2017-12-06T00:00:00Z,CNN,james levine,0
+2017-12-06T00:00:00Z,CNN,john conyers,7
+2017-12-06T00:00:00Z,CNN,kevin spacey,0
+2017-12-06T00:00:00Z,CNN,matt lauer,0
+2017-12-06T00:00:00Z,CNN,roy moore,18
+2017-12-06T00:00:00Z,CNN,trent franks,0
+2017-12-06T00:00:00Z,Fox News,al franken,10
+2017-12-06T00:00:00Z,Fox News,blake farenthold,0
+2017-12-06T00:00:00Z,Fox News,brett ratner,2
+2017-12-06T00:00:00Z,Fox News,charlie rose,2
+2017-12-06T00:00:00Z,Fox News,harvey weinstein,3
+2017-12-06T00:00:00Z,Fox News,john conyers,10
+2017-12-06T00:00:00Z,Fox News,kevin spacey,2
+2017-12-06T00:00:00Z,Fox News,louis ck,2
+2017-12-06T00:00:00Z,Fox News,matt lauer,2
+2017-12-06T00:00:00Z,Fox News,roy moore,16
+2017-12-06T00:00:00Z,Fox News,trent franks,0
+2017-12-06T00:00:00Z,MSNBC,al franken,8
+2017-12-06T00:00:00Z,MSNBC,blake farenthold,1
+2017-12-06T00:00:00Z,MSNBC,charlie rose,1
+2017-12-06T00:00:00Z,MSNBC,garrison keillor,0
+2017-12-06T00:00:00Z,MSNBC,harvey weinstein,3
+2017-12-06T00:00:00Z,MSNBC,james levine,0
+2017-12-06T00:00:00Z,MSNBC,john conyers,9
+2017-12-06T00:00:00Z,MSNBC,kevin spacey,0
+2017-12-06T00:00:00Z,MSNBC,mark halperin,0
+2017-12-06T00:00:00Z,MSNBC,matt lauer,0
+2017-12-06T00:00:00Z,MSNBC,roy moore,21
+2017-12-06T00:00:00Z,MSNBC,ruben kihuen,0
+2017-12-06T00:00:00Z,MSNBC,trent franks,0
+2017-12-07T00:00:00Z,CNN,al franken,19
+2017-12-07T00:00:00Z,CNN,blake farenthold,0
+2017-12-07T00:00:00Z,CNN,harvey weinstein,1
+2017-12-07T00:00:00Z,CNN,james levine,0
+2017-12-07T00:00:00Z,CNN,john conyers,7
+2017-12-07T00:00:00Z,CNN,kevin spacey,0
+2017-12-07T00:00:00Z,CNN,matt lauer,0
+2017-12-07T00:00:00Z,CNN,roy moore,18
+2017-12-07T00:00:00Z,CNN,trent franks,0
+2017-12-07T00:00:00Z,Fox News,al franken,17
+2017-12-07T00:00:00Z,Fox News,blake farenthold,1
+2017-12-07T00:00:00Z,Fox News,brett ratner,0
+2017-12-07T00:00:00Z,Fox News,charlie rose,1
+2017-12-07T00:00:00Z,Fox News,harvey weinstein,2
+2017-12-07T00:00:00Z,Fox News,john conyers,12
+2017-12-07T00:00:00Z,Fox News,kevin spacey,1
+2017-12-07T00:00:00Z,Fox News,louis ck,0
+2017-12-07T00:00:00Z,Fox News,matt lauer,2
+2017-12-07T00:00:00Z,Fox News,roy moore,15
+2017-12-07T00:00:00Z,Fox News,trent franks,1
+2017-12-07T00:00:00Z,MSNBC,al franken,23
+2017-12-07T00:00:00Z,MSNBC,blake farenthold,2
+2017-12-07T00:00:00Z,MSNBC,charlie rose,1
+2017-12-07T00:00:00Z,MSNBC,garrison keillor,0
+2017-12-07T00:00:00Z,MSNBC,harvey weinstein,4
+2017-12-07T00:00:00Z,MSNBC,james levine,0
+2017-12-07T00:00:00Z,MSNBC,john conyers,9
+2017-12-07T00:00:00Z,MSNBC,kevin spacey,1
+2017-12-07T00:00:00Z,MSNBC,mark halperin,0
+2017-12-07T00:00:00Z,MSNBC,matt lauer,1
+2017-12-07T00:00:00Z,MSNBC,roy moore,22
+2017-12-07T00:00:00Z,MSNBC,ruben kihuen,1
+2017-12-07T00:00:00Z,MSNBC,trent franks,1
+2017-12-08T00:00:00Z,CNN,al franken,17
+2017-12-08T00:00:00Z,CNN,blake farenthold,9
+2017-12-08T00:00:00Z,CNN,harvey weinstein,3
+2017-12-08T00:00:00Z,CNN,james levine,0
+2017-12-08T00:00:00Z,CNN,john conyers,10
+2017-12-08T00:00:00Z,CNN,kevin spacey,0
+2017-12-08T00:00:00Z,CNN,matt lauer,0
+2017-12-08T00:00:00Z,CNN,roy moore,20
+2017-12-08T00:00:00Z,CNN,trent franks,13
+2017-12-08T00:00:00Z,Fox News,al franken,20
+2017-12-08T00:00:00Z,Fox News,blake farenthold,4
+2017-12-08T00:00:00Z,Fox News,brett ratner,0
+2017-12-08T00:00:00Z,Fox News,charlie rose,0
+2017-12-08T00:00:00Z,Fox News,harvey weinstein,3
+2017-12-08T00:00:00Z,Fox News,john conyers,17
+2017-12-08T00:00:00Z,Fox News,kevin spacey,0
+2017-12-08T00:00:00Z,Fox News,louis ck,0
+2017-12-08T00:00:00Z,Fox News,matt lauer,0
+2017-12-08T00:00:00Z,Fox News,roy moore,19
+2017-12-08T00:00:00Z,Fox News,trent franks,16
+2017-12-08T00:00:00Z,MSNBC,al franken,19
+2017-12-08T00:00:00Z,MSNBC,blake farenthold,7
+2017-12-08T00:00:00Z,MSNBC,charlie rose,2
+2017-12-08T00:00:00Z,MSNBC,garrison keillor,0
+2017-12-08T00:00:00Z,MSNBC,harvey weinstein,5
+2017-12-08T00:00:00Z,MSNBC,james levine,0
+2017-12-08T00:00:00Z,MSNBC,john conyers,11
+2017-12-08T00:00:00Z,MSNBC,kevin spacey,0
+2017-12-08T00:00:00Z,MSNBC,mark halperin,2
+2017-12-08T00:00:00Z,MSNBC,matt lauer,1
+2017-12-08T00:00:00Z,MSNBC,roy moore,20
+2017-12-08T00:00:00Z,MSNBC,ruben kihuen,0
+2017-12-08T00:00:00Z,MSNBC,trent franks,12

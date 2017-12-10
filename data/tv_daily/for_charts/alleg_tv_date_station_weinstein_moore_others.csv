@@ -1,0 +1,1225 @@
+date_start,station,w_m_other,count_date_station_w_m_other
+2017-10-01,Bloomberg,Moore,6
+2017-10-01,Bloomberg,Others,2
+2017-10-01,Bloomberg,Weinstein,0
+2017-10-01,CNBC,Moore,0
+2017-10-01,CNBC,Others,0
+2017-10-01,CNBC,Weinstein,0
+2017-10-01,CNN,Moore,2
+2017-10-01,CNN,Others,0
+2017-10-01,CNN,Weinstein,0
+2017-10-01,Fox Business,Moore,9
+2017-10-01,Fox Business,Others,0
+2017-10-01,Fox Business,Weinstein,0
+2017-10-01,Fox News,Moore,13
+2017-10-01,Fox News,Others,0
+2017-10-01,Fox News,Weinstein,0
+2017-10-01,MSNBC,Moore,10
+2017-10-01,MSNBC,Others,0
+2017-10-01,MSNBC,Weinstein,0
+2017-10-02,Bloomberg,Moore,0
+2017-10-02,Bloomberg,Others,2
+2017-10-02,Bloomberg,Weinstein,0
+2017-10-02,CNBC,Moore,0
+2017-10-02,CNBC,Others,0
+2017-10-02,CNBC,Weinstein,0
+2017-10-02,CNN,Moore,0
+2017-10-02,CNN,Others,0
+2017-10-02,CNN,Weinstein,0
+2017-10-02,Fox Business,Moore,8
+2017-10-02,Fox Business,Others,0
+2017-10-02,Fox Business,Weinstein,0
+2017-10-02,Fox News,Moore,1
+2017-10-02,Fox News,Others,0
+2017-10-02,Fox News,Weinstein,0
+2017-10-02,MSNBC,Moore,0
+2017-10-02,MSNBC,Others,4
+2017-10-02,MSNBC,Weinstein,0
+2017-10-03,Bloomberg,Moore,0
+2017-10-03,Bloomberg,Others,6
+2017-10-03,Bloomberg,Weinstein,0
+2017-10-03,CNBC,Moore,0
+2017-10-03,CNBC,Others,0
+2017-10-03,CNBC,Weinstein,0
+2017-10-03,CNN,Moore,0
+2017-10-03,CNN,Others,0
+2017-10-03,CNN,Weinstein,0
+2017-10-03,Fox Business,Moore,0
+2017-10-03,Fox Business,Others,0
+2017-10-03,Fox Business,Weinstein,0
+2017-10-03,Fox News,Moore,0
+2017-10-03,Fox News,Others,0
+2017-10-03,Fox News,Weinstein,0
+2017-10-03,MSNBC,Moore,0
+2017-10-03,MSNBC,Others,1
+2017-10-03,MSNBC,Weinstein,0
+2017-10-04,Bloomberg,Moore,0
+2017-10-04,Bloomberg,Others,5
+2017-10-04,Bloomberg,Weinstein,0
+2017-10-04,CNBC,Moore,0
+2017-10-04,CNBC,Others,0
+2017-10-04,CNBC,Weinstein,0
+2017-10-04,CNN,Moore,0
+2017-10-04,CNN,Others,0
+2017-10-04,CNN,Weinstein,0
+2017-10-04,Fox Business,Moore,3
+2017-10-04,Fox Business,Others,0
+2017-10-04,Fox Business,Weinstein,0
+2017-10-04,Fox News,Moore,0
+2017-10-04,Fox News,Others,0
+2017-10-04,Fox News,Weinstein,0
+2017-10-04,MSNBC,Moore,0
+2017-10-04,MSNBC,Others,0
+2017-10-04,MSNBC,Weinstein,0
+2017-10-05,Bloomberg,Moore,0
+2017-10-05,Bloomberg,Others,5
+2017-10-05,Bloomberg,Weinstein,0
+2017-10-05,CNBC,Moore,0
+2017-10-05,CNBC,Others,0
+2017-10-05,CNBC,Weinstein,3
+2017-10-05,CNN,Moore,0
+2017-10-05,CNN,Others,2
+2017-10-05,CNN,Weinstein,5
+2017-10-05,Fox Business,Moore,0
+2017-10-05,Fox Business,Others,0
+2017-10-05,Fox Business,Weinstein,0
+2017-10-05,Fox News,Moore,0
+2017-10-05,Fox News,Others,0
+2017-10-05,Fox News,Weinstein,0
+2017-10-05,MSNBC,Moore,6
+2017-10-05,MSNBC,Others,0
+2017-10-05,MSNBC,Weinstein,0
+2017-10-06,Bloomberg,Moore,0
+2017-10-06,Bloomberg,Others,4
+2017-10-06,Bloomberg,Weinstein,4
+2017-10-06,CNBC,Moore,0
+2017-10-06,CNBC,Others,0
+2017-10-06,CNBC,Weinstein,5
+2017-10-06,CNN,Moore,1
+2017-10-06,CNN,Others,0
+2017-10-06,CNN,Weinstein,0
+2017-10-06,Fox Business,Moore,0
+2017-10-06,Fox Business,Others,0
+2017-10-06,Fox Business,Weinstein,8
+2017-10-06,Fox News,Moore,0
+2017-10-06,Fox News,Others,0
+2017-10-06,Fox News,Weinstein,14
+2017-10-06,MSNBC,Moore,6
+2017-10-06,MSNBC,Others,1
+2017-10-06,MSNBC,Weinstein,5
+2017-10-07,Bloomberg,Moore,0
+2017-10-07,Bloomberg,Others,3
+2017-10-07,Bloomberg,Weinstein,0
+2017-10-07,CNBC,Moore,0
+2017-10-07,CNBC,Others,0
+2017-10-07,CNBC,Weinstein,0
+2017-10-07,CNN,Moore,0
+2017-10-07,CNN,Others,0
+2017-10-07,CNN,Weinstein,4
+2017-10-07,Fox Business,Moore,4
+2017-10-07,Fox Business,Others,0
+2017-10-07,Fox Business,Weinstein,0
+2017-10-07,Fox News,Moore,0
+2017-10-07,Fox News,Others,0
+2017-10-07,Fox News,Weinstein,13
+2017-10-07,MSNBC,Moore,2
+2017-10-07,MSNBC,Others,8
+2017-10-07,MSNBC,Weinstein,3
+2017-10-08,Bloomberg,Moore,0
+2017-10-08,Bloomberg,Others,3
+2017-10-08,Bloomberg,Weinstein,2
+2017-10-08,CNBC,Moore,0
+2017-10-08,CNBC,Others,0
+2017-10-08,CNBC,Weinstein,0
+2017-10-08,CNN,Moore,0
+2017-10-08,CNN,Others,0
+2017-10-08,CNN,Weinstein,23
+2017-10-08,Fox Business,Moore,0
+2017-10-08,Fox Business,Others,0
+2017-10-08,Fox Business,Weinstein,0
+2017-10-08,Fox News,Moore,0
+2017-10-08,Fox News,Others,0
+2017-10-08,Fox News,Weinstein,6
+2017-10-08,MSNBC,Moore,1
+2017-10-08,MSNBC,Others,1
+2017-10-08,MSNBC,Weinstein,37
+2017-10-09,Bloomberg,Moore,0
+2017-10-09,Bloomberg,Others,2
+2017-10-09,Bloomberg,Weinstein,13
+2017-10-09,CNBC,Moore,0
+2017-10-09,CNBC,Others,0
+2017-10-09,CNBC,Weinstein,17
+2017-10-09,CNN,Moore,2
+2017-10-09,CNN,Others,0
+2017-10-09,CNN,Weinstein,33
+2017-10-09,Fox Business,Moore,5
+2017-10-09,Fox Business,Others,0
+2017-10-09,Fox Business,Weinstein,44
+2017-10-09,Fox News,Moore,0
+2017-10-09,Fox News,Others,0
+2017-10-09,Fox News,Weinstein,24
+2017-10-09,MSNBC,Moore,1
+2017-10-09,MSNBC,Others,1
+2017-10-09,MSNBC,Weinstein,62
+2017-10-10,Bloomberg,Moore,0
+2017-10-10,Bloomberg,Others,2
+2017-10-10,Bloomberg,Weinstein,0
+2017-10-10,CNBC,Moore,0
+2017-10-10,CNBC,Others,0
+2017-10-10,CNBC,Weinstein,12
+2017-10-10,CNN,Moore,2
+2017-10-10,CNN,Others,0
+2017-10-10,CNN,Weinstein,89
+2017-10-10,Fox Business,Moore,3
+2017-10-10,Fox Business,Others,0
+2017-10-10,Fox Business,Weinstein,50
+2017-10-10,Fox News,Moore,0
+2017-10-10,Fox News,Others,0
+2017-10-10,Fox News,Weinstein,90
+2017-10-10,MSNBC,Moore,10
+2017-10-10,MSNBC,Others,0
+2017-10-10,MSNBC,Weinstein,61
+2017-10-11,Bloomberg,Moore,2
+2017-10-11,Bloomberg,Others,1
+2017-10-11,Bloomberg,Weinstein,3
+2017-10-11,CNBC,Moore,0
+2017-10-11,CNBC,Others,0
+2017-10-11,CNBC,Weinstein,1
+2017-10-11,CNN,Moore,1
+2017-10-11,CNN,Others,0
+2017-10-11,CNN,Weinstein,163
+2017-10-11,Fox Business,Moore,0
+2017-10-11,Fox Business,Others,0
+2017-10-11,Fox Business,Weinstein,63
+2017-10-11,Fox News,Moore,0
+2017-10-11,Fox News,Others,0
+2017-10-11,Fox News,Weinstein,171
+2017-10-11,MSNBC,Moore,4
+2017-10-11,MSNBC,Others,3
+2017-10-11,MSNBC,Weinstein,123
+2017-10-12,Bloomberg,Moore,0
+2017-10-12,Bloomberg,Others,4
+2017-10-12,Bloomberg,Weinstein,5
+2017-10-12,CNBC,Moore,0
+2017-10-12,CNBC,Others,0
+2017-10-12,CNBC,Weinstein,1
+2017-10-12,CNN,Moore,0
+2017-10-12,CNN,Others,0
+2017-10-12,CNN,Weinstein,50
+2017-10-12,Fox Business,Moore,1
+2017-10-12,Fox Business,Others,0
+2017-10-12,Fox Business,Weinstein,38
+2017-10-12,Fox News,Moore,0
+2017-10-12,Fox News,Others,0
+2017-10-12,Fox News,Weinstein,135
+2017-10-12,MSNBC,Moore,4
+2017-10-12,MSNBC,Others,6
+2017-10-12,MSNBC,Weinstein,23
+2017-10-13,Bloomberg,Moore,0
+2017-10-13,Bloomberg,Others,4
+2017-10-13,Bloomberg,Weinstein,5
+2017-10-13,CNBC,Moore,0
+2017-10-13,CNBC,Others,0
+2017-10-13,CNBC,Weinstein,16
+2017-10-13,CNN,Moore,1
+2017-10-13,CNN,Others,0
+2017-10-13,CNN,Weinstein,17
+2017-10-13,Fox Business,Moore,0
+2017-10-13,Fox Business,Others,0
+2017-10-13,Fox Business,Weinstein,55
+2017-10-13,Fox News,Moore,0
+2017-10-13,Fox News,Others,1
+2017-10-13,Fox News,Weinstein,139
+2017-10-13,MSNBC,Moore,5
+2017-10-13,MSNBC,Others,0
+2017-10-13,MSNBC,Weinstein,16
+2017-10-14,Bloomberg,Moore,0
+2017-10-14,Bloomberg,Others,0
+2017-10-14,Bloomberg,Weinstein,0
+2017-10-14,CNBC,Moore,0
+2017-10-14,CNBC,Others,0
+2017-10-14,CNBC,Weinstein,0
+2017-10-14,CNN,Moore,0
+2017-10-14,CNN,Others,0
+2017-10-14,CNN,Weinstein,34
+2017-10-14,Fox Business,Moore,0
+2017-10-14,Fox Business,Others,0
+2017-10-14,Fox Business,Weinstein,11
+2017-10-14,Fox News,Moore,0
+2017-10-14,Fox News,Others,1
+2017-10-14,Fox News,Weinstein,201
+2017-10-14,MSNBC,Moore,8
+2017-10-14,MSNBC,Others,0
+2017-10-14,MSNBC,Weinstein,61
+2017-10-15,Bloomberg,Moore,0
+2017-10-15,Bloomberg,Others,6
+2017-10-15,Bloomberg,Weinstein,0
+2017-10-15,CNBC,Moore,0
+2017-10-15,CNBC,Others,0
+2017-10-15,CNBC,Weinstein,0
+2017-10-15,CNN,Moore,2
+2017-10-15,CNN,Others,0
+2017-10-15,CNN,Weinstein,29
+2017-10-15,Fox Business,Moore,0
+2017-10-15,Fox Business,Others,0
+2017-10-15,Fox Business,Weinstein,11
+2017-10-15,Fox News,Moore,0
+2017-10-15,Fox News,Others,0
+2017-10-15,Fox News,Weinstein,79
+2017-10-15,MSNBC,Moore,1
+2017-10-15,MSNBC,Others,2
+2017-10-15,MSNBC,Weinstein,50
+2017-10-16,Bloomberg,Moore,0
+2017-10-16,Bloomberg,Others,1
+2017-10-16,Bloomberg,Weinstein,1
+2017-10-16,CNBC,Moore,0
+2017-10-16,CNBC,Others,1
+2017-10-16,CNBC,Weinstein,10
+2017-10-16,CNN,Moore,2
+2017-10-16,CNN,Others,0
+2017-10-16,CNN,Weinstein,9
+2017-10-16,Fox Business,Moore,1
+2017-10-16,Fox Business,Others,0
+2017-10-16,Fox Business,Weinstein,40
+2017-10-16,Fox News,Moore,3
+2017-10-16,Fox News,Others,0
+2017-10-16,Fox News,Weinstein,49
+2017-10-16,MSNBC,Moore,3
+2017-10-16,MSNBC,Others,12
+2017-10-16,MSNBC,Weinstein,27
+2017-10-17,Bloomberg,Moore,0
+2017-10-17,Bloomberg,Others,3
+2017-10-17,Bloomberg,Weinstein,4
+2017-10-17,CNBC,Moore,0
+2017-10-17,CNBC,Others,1
+2017-10-17,CNBC,Weinstein,1
+2017-10-17,CNN,Moore,0
+2017-10-17,CNN,Others,0
+2017-10-17,CNN,Weinstein,15
+2017-10-17,Fox Business,Moore,3
+2017-10-17,Fox Business,Others,0
+2017-10-17,Fox Business,Weinstein,33
+2017-10-17,Fox News,Moore,1
+2017-10-17,Fox News,Others,0
+2017-10-17,Fox News,Weinstein,65
+2017-10-17,MSNBC,Moore,0
+2017-10-17,MSNBC,Others,3
+2017-10-17,MSNBC,Weinstein,12
+2017-10-18,Bloomberg,Moore,0
+2017-10-18,Bloomberg,Others,1
+2017-10-18,Bloomberg,Weinstein,0
+2017-10-18,CNBC,Moore,0
+2017-10-18,CNBC,Others,2
+2017-10-18,CNBC,Weinstein,3
+2017-10-18,CNN,Moore,0
+2017-10-18,CNN,Others,8
+2017-10-18,CNN,Weinstein,8
+2017-10-18,Fox Business,Moore,0
+2017-10-18,Fox Business,Others,1
+2017-10-18,Fox Business,Weinstein,10
+2017-10-18,Fox News,Moore,2
+2017-10-18,Fox News,Others,5
+2017-10-18,Fox News,Weinstein,35
+2017-10-18,MSNBC,Moore,16
+2017-10-18,MSNBC,Others,19
+2017-10-18,MSNBC,Weinstein,16
+2017-10-19,Bloomberg,Moore,0
+2017-10-19,Bloomberg,Others,3
+2017-10-19,Bloomberg,Weinstein,2
+2017-10-19,CNBC,Moore,1
+2017-10-19,CNBC,Others,0
+2017-10-19,CNBC,Weinstein,3
+2017-10-19,CNN,Moore,0
+2017-10-19,CNN,Others,1
+2017-10-19,CNN,Weinstein,2
+2017-10-19,Fox Business,Moore,2
+2017-10-19,Fox Business,Others,3
+2017-10-19,Fox Business,Weinstein,6
+2017-10-19,Fox News,Moore,0
+2017-10-19,Fox News,Others,0
+2017-10-19,Fox News,Weinstein,6
+2017-10-19,MSNBC,Moore,10
+2017-10-19,MSNBC,Others,9
+2017-10-19,MSNBC,Weinstein,4
+2017-10-20,Bloomberg,Moore,0
+2017-10-20,Bloomberg,Others,3
+2017-10-20,Bloomberg,Weinstein,0
+2017-10-20,CNBC,Moore,0
+2017-10-20,CNBC,Others,0
+2017-10-20,CNBC,Weinstein,2
+2017-10-20,CNN,Moore,1
+2017-10-20,CNN,Others,0
+2017-10-20,CNN,Weinstein,7
+2017-10-20,Fox Business,Moore,3
+2017-10-20,Fox Business,Others,0
+2017-10-20,Fox Business,Weinstein,14
+2017-10-20,Fox News,Moore,3
+2017-10-20,Fox News,Others,0
+2017-10-20,Fox News,Weinstein,20
+2017-10-20,MSNBC,Moore,4
+2017-10-20,MSNBC,Others,1
+2017-10-20,MSNBC,Weinstein,5
+2017-10-21,Bloomberg,Moore,0
+2017-10-21,Bloomberg,Others,4
+2017-10-21,Bloomberg,Weinstein,3
+2017-10-21,CNBC,Moore,0
+2017-10-21,CNBC,Others,0
+2017-10-21,CNBC,Weinstein,0
+2017-10-21,CNN,Moore,1
+2017-10-21,CNN,Others,0
+2017-10-21,CNN,Weinstein,5
+2017-10-21,Fox Business,Moore,0
+2017-10-21,Fox Business,Others,2
+2017-10-21,Fox Business,Weinstein,0
+2017-10-21,Fox News,Moore,0
+2017-10-21,Fox News,Others,2
+2017-10-21,Fox News,Weinstein,15
+2017-10-21,MSNBC,Moore,0
+2017-10-21,MSNBC,Others,0
+2017-10-21,MSNBC,Weinstein,1
+2017-10-22,Bloomberg,Moore,0
+2017-10-22,Bloomberg,Others,1
+2017-10-22,Bloomberg,Weinstein,5
+2017-10-22,CNBC,Moore,0
+2017-10-22,CNBC,Others,0
+2017-10-22,CNBC,Weinstein,0
+2017-10-22,CNN,Moore,1
+2017-10-22,CNN,Others,0
+2017-10-22,CNN,Weinstein,8
+2017-10-22,Fox Business,Moore,0
+2017-10-22,Fox Business,Others,0
+2017-10-22,Fox Business,Weinstein,0
+2017-10-22,Fox News,Moore,1
+2017-10-22,Fox News,Others,2
+2017-10-22,Fox News,Weinstein,12
+2017-10-22,MSNBC,Moore,1
+2017-10-22,MSNBC,Others,0
+2017-10-22,MSNBC,Weinstein,18
+2017-10-23,Bloomberg,Moore,0
+2017-10-23,Bloomberg,Others,1
+2017-10-23,Bloomberg,Weinstein,0
+2017-10-23,CNBC,Moore,0
+2017-10-23,CNBC,Others,0
+2017-10-23,CNBC,Weinstein,2
+2017-10-23,CNN,Moore,8
+2017-10-23,CNN,Others,0
+2017-10-23,CNN,Weinstein,8
+2017-10-23,Fox Business,Moore,0
+2017-10-23,Fox Business,Others,1
+2017-10-23,Fox Business,Weinstein,0
+2017-10-23,Fox News,Moore,1
+2017-10-23,Fox News,Others,0
+2017-10-23,Fox News,Weinstein,8
+2017-10-23,MSNBC,Moore,7
+2017-10-23,MSNBC,Others,4
+2017-10-23,MSNBC,Weinstein,7
+2017-10-24,Bloomberg,Moore,0
+2017-10-24,Bloomberg,Others,3
+2017-10-24,Bloomberg,Weinstein,2
+2017-10-24,CNBC,Moore,0
+2017-10-24,CNBC,Others,0
+2017-10-24,CNBC,Weinstein,0
+2017-10-24,CNN,Moore,3
+2017-10-24,CNN,Others,0
+2017-10-24,CNN,Weinstein,15
+2017-10-24,Fox Business,Moore,3
+2017-10-24,Fox Business,Others,0
+2017-10-24,Fox Business,Weinstein,0
+2017-10-24,Fox News,Moore,1
+2017-10-24,Fox News,Others,0
+2017-10-24,Fox News,Weinstein,0
+2017-10-24,MSNBC,Moore,2
+2017-10-24,MSNBC,Others,2
+2017-10-24,MSNBC,Weinstein,4
+2017-10-25,Bloomberg,Moore,0
+2017-10-25,Bloomberg,Others,3
+2017-10-25,Bloomberg,Weinstein,1
+2017-10-25,CNBC,Moore,0
+2017-10-25,CNBC,Others,0
+2017-10-25,CNBC,Weinstein,0
+2017-10-25,CNN,Moore,0
+2017-10-25,CNN,Others,0
+2017-10-25,CNN,Weinstein,8
+2017-10-25,Fox Business,Moore,1
+2017-10-25,Fox Business,Others,0
+2017-10-25,Fox Business,Weinstein,1
+2017-10-25,Fox News,Moore,0
+2017-10-25,Fox News,Others,0
+2017-10-25,Fox News,Weinstein,3
+2017-10-25,MSNBC,Moore,3
+2017-10-25,MSNBC,Others,3
+2017-10-25,MSNBC,Weinstein,2
+2017-10-26,Bloomberg,Moore,1
+2017-10-26,Bloomberg,Others,1
+2017-10-26,Bloomberg,Weinstein,4
+2017-10-26,CNBC,Moore,0
+2017-10-26,CNBC,Others,1
+2017-10-26,CNBC,Weinstein,2
+2017-10-26,CNN,Moore,8
+2017-10-26,CNN,Others,6
+2017-10-26,CNN,Weinstein,8
+2017-10-26,Fox Business,Moore,0
+2017-10-26,Fox Business,Others,4
+2017-10-26,Fox Business,Weinstein,0
+2017-10-26,Fox News,Moore,0
+2017-10-26,Fox News,Others,2
+2017-10-26,Fox News,Weinstein,1
+2017-10-26,MSNBC,Moore,9
+2017-10-26,MSNBC,Others,7
+2017-10-26,MSNBC,Weinstein,7
+2017-10-27,Bloomberg,Moore,0
+2017-10-27,Bloomberg,Others,3
+2017-10-27,Bloomberg,Weinstein,1
+2017-10-27,CNBC,Moore,0
+2017-10-27,CNBC,Others,0
+2017-10-27,CNBC,Weinstein,2
+2017-10-27,CNN,Moore,6
+2017-10-27,CNN,Others,6
+2017-10-27,CNN,Weinstein,12
+2017-10-27,Fox Business,Moore,0
+2017-10-27,Fox Business,Others,0
+2017-10-27,Fox Business,Weinstein,6
+2017-10-27,Fox News,Moore,0
+2017-10-27,Fox News,Others,7
+2017-10-27,Fox News,Weinstein,8
+2017-10-27,MSNBC,Moore,11
+2017-10-27,MSNBC,Others,3
+2017-10-27,MSNBC,Weinstein,12
+2017-10-28,Bloomberg,Moore,0
+2017-10-28,Bloomberg,Others,3
+2017-10-28,Bloomberg,Weinstein,0
+2017-10-28,CNBC,Moore,0
+2017-10-28,CNBC,Others,0
+2017-10-28,CNBC,Weinstein,0
+2017-10-28,CNN,Moore,0
+2017-10-28,CNN,Others,1
+2017-10-28,CNN,Weinstein,2
+2017-10-28,Fox Business,Moore,0
+2017-10-28,Fox Business,Others,0
+2017-10-28,Fox Business,Weinstein,0
+2017-10-28,Fox News,Moore,0
+2017-10-28,Fox News,Others,3
+2017-10-28,Fox News,Weinstein,8
+2017-10-28,MSNBC,Moore,0
+2017-10-28,MSNBC,Others,0
+2017-10-28,MSNBC,Weinstein,0
+2017-10-29,Bloomberg,Moore,0
+2017-10-29,Bloomberg,Others,4
+2017-10-29,Bloomberg,Weinstein,0
+2017-10-29,CNBC,Moore,0
+2017-10-29,CNBC,Others,0
+2017-10-29,CNBC,Weinstein,0
+2017-10-29,CNN,Moore,0
+2017-10-29,CNN,Others,1
+2017-10-29,CNN,Weinstein,1
+2017-10-29,Fox Business,Moore,0
+2017-10-29,Fox Business,Others,0
+2017-10-29,Fox Business,Weinstein,0
+2017-10-29,Fox News,Moore,0
+2017-10-29,Fox News,Others,7
+2017-10-29,Fox News,Weinstein,9
+2017-10-29,MSNBC,Moore,1
+2017-10-29,MSNBC,Others,2
+2017-10-29,MSNBC,Weinstein,2
+2017-10-30,Bloomberg,Moore,0
+2017-10-30,Bloomberg,Others,4
+2017-10-30,Bloomberg,Weinstein,1
+2017-10-30,CNBC,Moore,0
+2017-10-30,CNBC,Others,1
+2017-10-30,CNBC,Weinstein,0
+2017-10-30,CNN,Moore,0
+2017-10-30,CNN,Others,2
+2017-10-30,CNN,Weinstein,8
+2017-10-30,Fox Business,Moore,0
+2017-10-30,Fox Business,Others,5
+2017-10-30,Fox Business,Weinstein,0
+2017-10-30,Fox News,Moore,0
+2017-10-30,Fox News,Others,4
+2017-10-30,Fox News,Weinstein,2
+2017-10-30,MSNBC,Moore,0
+2017-10-30,MSNBC,Others,4
+2017-10-30,MSNBC,Weinstein,0
+2017-10-31,Bloomberg,Moore,0
+2017-10-31,Bloomberg,Others,5
+2017-10-31,Bloomberg,Weinstein,0
+2017-10-31,CNBC,Moore,0
+2017-10-31,CNBC,Others,8
+2017-10-31,CNBC,Weinstein,0
+2017-10-31,CNN,Moore,0
+2017-10-31,CNN,Others,1
+2017-10-31,CNN,Weinstein,0
+2017-10-31,Fox Business,Moore,1
+2017-10-31,Fox Business,Others,14
+2017-10-31,Fox Business,Weinstein,4
+2017-10-31,Fox News,Moore,2
+2017-10-31,Fox News,Others,2
+2017-10-31,Fox News,Weinstein,1
+2017-10-31,MSNBC,Moore,2
+2017-10-31,MSNBC,Others,1
+2017-10-31,MSNBC,Weinstein,0
+2017-11-01,Bloomberg,Moore,0
+2017-11-01,Bloomberg,Others,2
+2017-11-01,Bloomberg,Weinstein,0
+2017-11-01,CNBC,Moore,0
+2017-11-01,CNBC,Others,1
+2017-11-01,CNBC,Weinstein,0
+2017-11-01,CNN,Moore,0
+2017-11-01,CNN,Others,3
+2017-11-01,CNN,Weinstein,0
+2017-11-01,Fox Business,Moore,0
+2017-11-01,Fox Business,Others,2
+2017-11-01,Fox Business,Weinstein,0
+2017-11-01,Fox News,Moore,0
+2017-11-01,Fox News,Others,2
+2017-11-01,Fox News,Weinstein,0
+2017-11-01,MSNBC,Moore,2
+2017-11-01,MSNBC,Others,0
+2017-11-01,MSNBC,Weinstein,0
+2017-11-02,Bloomberg,Moore,0
+2017-11-02,Bloomberg,Others,7
+2017-11-02,Bloomberg,Weinstein,2
+2017-11-02,CNBC,Moore,0
+2017-11-02,CNBC,Others,0
+2017-11-02,CNBC,Weinstein,0
+2017-11-02,CNN,Moore,0
+2017-11-02,CNN,Others,4
+2017-11-02,CNN,Weinstein,1
+2017-11-02,Fox Business,Moore,0
+2017-11-02,Fox Business,Others,2
+2017-11-02,Fox Business,Weinstein,0
+2017-11-02,Fox News,Moore,0
+2017-11-02,Fox News,Others,0
+2017-11-02,Fox News,Weinstein,0
+2017-11-02,MSNBC,Moore,1
+2017-11-02,MSNBC,Others,14
+2017-11-02,MSNBC,Weinstein,1
+2017-11-03,Bloomberg,Moore,0
+2017-11-03,Bloomberg,Others,5
+2017-11-03,Bloomberg,Weinstein,0
+2017-11-03,CNBC,Moore,0
+2017-11-03,CNBC,Others,0
+2017-11-03,CNBC,Weinstein,2
+2017-11-03,CNN,Moore,0
+2017-11-03,CNN,Others,21
+2017-11-03,CNN,Weinstein,5
+2017-11-03,Fox Business,Moore,0
+2017-11-03,Fox Business,Others,4
+2017-11-03,Fox Business,Weinstein,6
+2017-11-03,Fox News,Moore,0
+2017-11-03,Fox News,Others,6
+2017-11-03,Fox News,Weinstein,5
+2017-11-03,MSNBC,Moore,0
+2017-11-03,MSNBC,Others,25
+2017-11-03,MSNBC,Weinstein,7
+2017-11-04,Bloomberg,Moore,0
+2017-11-04,Bloomberg,Others,5
+2017-11-04,Bloomberg,Weinstein,0
+2017-11-04,CNBC,Moore,0
+2017-11-04,CNBC,Others,0
+2017-11-04,CNBC,Weinstein,1
+2017-11-04,CNN,Moore,0
+2017-11-04,CNN,Others,17
+2017-11-04,CNN,Weinstein,5
+2017-11-04,Fox Business,Moore,0
+2017-11-04,Fox Business,Others,0
+2017-11-04,Fox Business,Weinstein,0
+2017-11-04,Fox News,Moore,0
+2017-11-04,Fox News,Others,7
+2017-11-04,Fox News,Weinstein,10
+2017-11-04,MSNBC,Moore,0
+2017-11-04,MSNBC,Others,12
+2017-11-04,MSNBC,Weinstein,9
+2017-11-05,Bloomberg,Moore,0
+2017-11-05,Bloomberg,Others,4
+2017-11-05,Bloomberg,Weinstein,2
+2017-11-05,CNBC,Moore,0
+2017-11-05,CNBC,Others,0
+2017-11-05,CNBC,Weinstein,0
+2017-11-05,CNN,Moore,0
+2017-11-05,CNN,Others,1
+2017-11-05,CNN,Weinstein,11
+2017-11-05,Fox Business,Moore,0
+2017-11-05,Fox Business,Others,0
+2017-11-05,Fox Business,Weinstein,0
+2017-11-05,Fox News,Moore,0
+2017-11-05,Fox News,Others,19
+2017-11-05,Fox News,Weinstein,4
+2017-11-05,MSNBC,Moore,0
+2017-11-05,MSNBC,Others,1
+2017-11-05,MSNBC,Weinstein,0
+2017-11-06,Bloomberg,Moore,0
+2017-11-06,Bloomberg,Others,2
+2017-11-06,Bloomberg,Weinstein,1
+2017-11-06,CNBC,Moore,0
+2017-11-06,CNBC,Others,0
+2017-11-06,CNBC,Weinstein,0
+2017-11-06,CNN,Moore,0
+2017-11-06,CNN,Others,0
+2017-11-06,CNN,Weinstein,0
+2017-11-06,Fox Business,Moore,0
+2017-11-06,Fox Business,Others,6
+2017-11-06,Fox Business,Weinstein,0
+2017-11-06,Fox News,Moore,0
+2017-11-06,Fox News,Others,0
+2017-11-06,Fox News,Weinstein,0
+2017-11-06,MSNBC,Moore,0
+2017-11-06,MSNBC,Others,0
+2017-11-06,MSNBC,Weinstein,0
+2017-11-07,Bloomberg,Moore,0
+2017-11-07,Bloomberg,Others,4
+2017-11-07,Bloomberg,Weinstein,0
+2017-11-07,CNBC,Moore,0
+2017-11-07,CNBC,Others,0
+2017-11-07,CNBC,Weinstein,1
+2017-11-07,CNN,Moore,1
+2017-11-07,CNN,Others,2
+2017-11-07,CNN,Weinstein,9
+2017-11-07,Fox Business,Moore,0
+2017-11-07,Fox Business,Others,2
+2017-11-07,Fox Business,Weinstein,3
+2017-11-07,Fox News,Moore,0
+2017-11-07,Fox News,Others,0
+2017-11-07,Fox News,Weinstein,2
+2017-11-07,MSNBC,Moore,0
+2017-11-07,MSNBC,Others,0
+2017-11-07,MSNBC,Weinstein,13
+2017-11-08,Bloomberg,Moore,0
+2017-11-08,Bloomberg,Others,5
+2017-11-08,Bloomberg,Weinstein,0
+2017-11-08,CNBC,Moore,0
+2017-11-08,CNBC,Others,2
+2017-11-08,CNBC,Weinstein,0
+2017-11-08,CNN,Moore,3
+2017-11-08,CNN,Others,23
+2017-11-08,CNN,Weinstein,3
+2017-11-08,Fox Business,Moore,1
+2017-11-08,Fox Business,Others,2
+2017-11-08,Fox Business,Weinstein,9
+2017-11-08,Fox News,Moore,0
+2017-11-08,Fox News,Others,2
+2017-11-08,Fox News,Weinstein,4
+2017-11-08,MSNBC,Moore,2
+2017-11-08,MSNBC,Others,36
+2017-11-08,MSNBC,Weinstein,6
+2017-11-09,Bloomberg,Moore,9
+2017-11-09,Bloomberg,Others,6
+2017-11-09,Bloomberg,Weinstein,0
+2017-11-09,CNBC,Moore,0
+2017-11-09,CNBC,Others,1
+2017-11-09,CNBC,Weinstein,0
+2017-11-09,CNN,Moore,58
+2017-11-09,CNN,Others,26
+2017-11-09,CNN,Weinstein,24
+2017-11-09,Fox Business,Moore,8
+2017-11-09,Fox Business,Others,12
+2017-11-09,Fox Business,Weinstein,1
+2017-11-09,Fox News,Moore,15
+2017-11-09,Fox News,Others,1
+2017-11-09,Fox News,Weinstein,0
+2017-11-09,MSNBC,Moore,73
+2017-11-09,MSNBC,Others,25
+2017-11-09,MSNBC,Weinstein,4
+2017-11-10,Bloomberg,Moore,18
+2017-11-10,Bloomberg,Others,5
+2017-11-10,Bloomberg,Weinstein,0
+2017-11-10,CNBC,Moore,0
+2017-11-10,CNBC,Others,0
+2017-11-10,CNBC,Weinstein,2
+2017-11-10,CNN,Moore,332
+2017-11-10,CNN,Others,28
+2017-11-10,CNN,Weinstein,20
+2017-11-10,Fox Business,Moore,36
+2017-11-10,Fox Business,Others,3
+2017-11-10,Fox Business,Weinstein,6
+2017-11-10,Fox News,Moore,93
+2017-11-10,Fox News,Others,25
+2017-11-10,Fox News,Weinstein,12
+2017-11-10,MSNBC,Moore,336
+2017-11-10,MSNBC,Others,6
+2017-11-10,MSNBC,Weinstein,5
+2017-11-11,Bloomberg,Moore,5
+2017-11-11,Bloomberg,Others,3
+2017-11-11,Bloomberg,Weinstein,2
+2017-11-11,CNBC,Moore,0
+2017-11-11,CNBC,Others,0
+2017-11-11,CNBC,Weinstein,0
+2017-11-11,CNN,Moore,220
+2017-11-11,CNN,Others,9
+2017-11-11,CNN,Weinstein,9
+2017-11-11,Fox Business,Moore,18
+2017-11-11,Fox Business,Others,0
+2017-11-11,Fox Business,Weinstein,3
+2017-11-11,Fox News,Moore,131
+2017-11-11,Fox News,Others,59
+2017-11-11,Fox News,Weinstein,6
+2017-11-11,MSNBC,Moore,264
+2017-11-11,MSNBC,Others,18
+2017-11-11,MSNBC,Weinstein,21
+2017-11-12,Bloomberg,Moore,2
+2017-11-12,Bloomberg,Others,3
+2017-11-12,Bloomberg,Weinstein,2
+2017-11-12,CNBC,Moore,0
+2017-11-12,CNBC,Others,0
+2017-11-12,CNBC,Weinstein,0
+2017-11-12,CNN,Moore,106
+2017-11-12,CNN,Others,7
+2017-11-12,CNN,Weinstein,2
+2017-11-12,Fox Business,Moore,0
+2017-11-12,Fox Business,Others,0
+2017-11-12,Fox Business,Weinstein,0
+2017-11-12,Fox News,Moore,44
+2017-11-12,Fox News,Others,6
+2017-11-12,Fox News,Weinstein,2
+2017-11-12,MSNBC,Moore,205
+2017-11-12,MSNBC,Others,3
+2017-11-12,MSNBC,Weinstein,8
+2017-11-13,Bloomberg,Moore,16
+2017-11-13,Bloomberg,Others,1
+2017-11-13,Bloomberg,Weinstein,2
+2017-11-13,CNBC,Moore,13
+2017-11-13,CNBC,Others,2
+2017-11-13,CNBC,Weinstein,1
+2017-11-13,CNN,Moore,206
+2017-11-13,CNN,Others,0
+2017-11-13,CNN,Weinstein,1
+2017-11-13,Fox Business,Moore,43
+2017-11-13,Fox Business,Others,1
+2017-11-13,Fox Business,Weinstein,0
+2017-11-13,Fox News,Moore,86
+2017-11-13,Fox News,Others,4
+2017-11-13,Fox News,Weinstein,7
+2017-11-13,MSNBC,Moore,224
+2017-11-13,MSNBC,Others,0
+2017-11-13,MSNBC,Weinstein,7
+2017-11-14,Bloomberg,Moore,31
+2017-11-14,Bloomberg,Others,5
+2017-11-14,Bloomberg,Weinstein,1
+2017-11-14,CNBC,Moore,7
+2017-11-14,CNBC,Others,0
+2017-11-14,CNBC,Weinstein,1
+2017-11-14,CNN,Moore,227
+2017-11-14,CNN,Others,3
+2017-11-14,CNN,Weinstein,4
+2017-11-14,Fox Business,Moore,73
+2017-11-14,Fox Business,Others,1
+2017-11-14,Fox Business,Weinstein,2
+2017-11-14,Fox News,Moore,92
+2017-11-14,Fox News,Others,5
+2017-11-14,Fox News,Weinstein,0
+2017-11-14,MSNBC,Moore,352
+2017-11-14,MSNBC,Others,5
+2017-11-14,MSNBC,Weinstein,6
+2017-11-15,Bloomberg,Moore,12
+2017-11-15,Bloomberg,Others,1
+2017-11-15,Bloomberg,Weinstein,0
+2017-11-15,CNBC,Moore,2
+2017-11-15,CNBC,Others,0
+2017-11-15,CNBC,Weinstein,0
+2017-11-15,CNN,Moore,385
+2017-11-15,CNN,Others,2
+2017-11-15,CNN,Weinstein,3
+2017-11-15,Fox Business,Moore,63
+2017-11-15,Fox Business,Others,3
+2017-11-15,Fox Business,Weinstein,8
+2017-11-15,Fox News,Moore,167
+2017-11-15,Fox News,Others,5
+2017-11-15,Fox News,Weinstein,8
+2017-11-15,MSNBC,Moore,395
+2017-11-15,MSNBC,Others,2
+2017-11-15,MSNBC,Weinstein,5
+2017-11-16,Bloomberg,Moore,6
+2017-11-16,Bloomberg,Others,7
+2017-11-16,Bloomberg,Weinstein,1
+2017-11-16,CNBC,Moore,0
+2017-11-16,CNBC,Others,1
+2017-11-16,CNBC,Weinstein,0
+2017-11-16,CNN,Moore,320
+2017-11-16,CNN,Others,38
+2017-11-16,CNN,Weinstein,10
+2017-11-16,Fox Business,Moore,69
+2017-11-16,Fox Business,Others,36
+2017-11-16,Fox Business,Weinstein,3
+2017-11-16,Fox News,Moore,190
+2017-11-16,Fox News,Others,66
+2017-11-16,Fox News,Weinstein,6
+2017-11-16,MSNBC,Moore,522
+2017-11-16,MSNBC,Others,49
+2017-11-16,MSNBC,Weinstein,15
+2017-11-17,Bloomberg,Moore,6
+2017-11-17,Bloomberg,Others,5
+2017-11-17,Bloomberg,Weinstein,2
+2017-11-17,CNBC,Moore,0
+2017-11-17,CNBC,Others,0
+2017-11-17,CNBC,Weinstein,0
+2017-11-17,CNN,Moore,213
+2017-11-17,CNN,Others,151
+2017-11-17,CNN,Weinstein,11
+2017-11-17,Fox Business,Moore,44
+2017-11-17,Fox Business,Others,71
+2017-11-17,Fox Business,Weinstein,1
+2017-11-17,Fox News,Moore,116
+2017-11-17,Fox News,Others,156
+2017-11-17,Fox News,Weinstein,6
+2017-11-17,MSNBC,Moore,258
+2017-11-17,MSNBC,Others,146
+2017-11-17,MSNBC,Weinstein,4
+2017-11-18,Bloomberg,Moore,2
+2017-11-18,Bloomberg,Others,6
+2017-11-18,Bloomberg,Weinstein,1
+2017-11-18,CNBC,Moore,0
+2017-11-18,CNBC,Others,0
+2017-11-18,CNBC,Weinstein,0
+2017-11-18,CNN,Moore,252
+2017-11-18,CNN,Others,118
+2017-11-18,CNN,Weinstein,10
+2017-11-18,Fox Business,Moore,38
+2017-11-18,Fox Business,Others,26
+2017-11-18,Fox Business,Weinstein,0
+2017-11-18,Fox News,Moore,167
+2017-11-18,Fox News,Others,129
+2017-11-18,Fox News,Weinstein,8
+2017-11-18,MSNBC,Moore,231
+2017-11-18,MSNBC,Others,146
+2017-11-18,MSNBC,Weinstein,8
+2017-11-19,Bloomberg,Moore,0
+2017-11-19,Bloomberg,Others,3
+2017-11-19,Bloomberg,Weinstein,1
+2017-11-19,CNBC,Moore,0
+2017-11-19,CNBC,Others,0
+2017-11-19,CNBC,Weinstein,0
+2017-11-19,CNN,Moore,123
+2017-11-19,CNN,Others,58
+2017-11-19,CNN,Weinstein,7
+2017-11-19,Fox Business,Moore,2
+2017-11-19,Fox Business,Others,0
+2017-11-19,Fox Business,Weinstein,0
+2017-11-19,Fox News,Moore,76
+2017-11-19,Fox News,Others,52
+2017-11-19,Fox News,Weinstein,15
+2017-11-19,MSNBC,Moore,269
+2017-11-19,MSNBC,Others,97
+2017-11-19,MSNBC,Weinstein,9
+2017-11-20,Bloomberg,Moore,3
+2017-11-20,Bloomberg,Others,9
+2017-11-20,Bloomberg,Weinstein,0
+2017-11-20,CNBC,Moore,3
+2017-11-20,CNBC,Others,0
+2017-11-20,CNBC,Weinstein,2
+2017-11-20,CNN,Moore,162
+2017-11-20,CNN,Others,35
+2017-11-20,CNN,Weinstein,3
+2017-11-20,Fox Business,Moore,19
+2017-11-20,Fox Business,Others,37
+2017-11-20,Fox Business,Weinstein,1
+2017-11-20,Fox News,Moore,147
+2017-11-20,Fox News,Others,76
+2017-11-20,Fox News,Weinstein,3
+2017-11-20,MSNBC,Moore,270
+2017-11-20,MSNBC,Others,54
+2017-11-20,MSNBC,Weinstein,3
+2017-11-21,Bloomberg,Moore,6
+2017-11-21,Bloomberg,Others,23
+2017-11-21,Bloomberg,Weinstein,1
+2017-11-21,CNBC,Moore,6
+2017-11-21,CNBC,Others,11
+2017-11-21,CNBC,Weinstein,0
+2017-11-21,CNN,Moore,284
+2017-11-21,CNN,Others,144
+2017-11-21,CNN,Weinstein,7
+2017-11-21,Fox Business,Moore,37
+2017-11-21,Fox Business,Others,78
+2017-11-21,Fox Business,Weinstein,6
+2017-11-21,Fox News,Moore,98
+2017-11-21,Fox News,Others,150
+2017-11-21,Fox News,Weinstein,10
+2017-11-21,MSNBC,Moore,333
+2017-11-21,MSNBC,Others,167
+2017-11-21,MSNBC,Weinstein,14
+2017-11-22,Bloomberg,Moore,12
+2017-11-22,Bloomberg,Others,1
+2017-11-22,Bloomberg,Weinstein,0
+2017-11-22,CNBC,Moore,0
+2017-11-22,CNBC,Others,0
+2017-11-22,CNBC,Weinstein,0
+2017-11-22,CNN,Moore,462
+2017-11-22,CNN,Others,119
+2017-11-22,CNN,Weinstein,2
+2017-11-22,Fox Business,Moore,41
+2017-11-22,Fox Business,Others,60
+2017-11-22,Fox Business,Weinstein,9
+2017-11-22,Fox News,Moore,146
+2017-11-22,Fox News,Others,133
+2017-11-22,Fox News,Weinstein,12
+2017-11-22,MSNBC,Moore,335
+2017-11-22,MSNBC,Others,132
+2017-11-22,MSNBC,Weinstein,3
+2017-11-23,Bloomberg,Moore,0
+2017-11-23,Bloomberg,Others,1
+2017-11-23,Bloomberg,Weinstein,0
+2017-11-23,CNBC,Moore,0
+2017-11-23,CNBC,Others,0
+2017-11-23,CNBC,Weinstein,0
+2017-11-23,CNN,Moore,73
+2017-11-23,CNN,Others,37
+2017-11-23,CNN,Weinstein,0
+2017-11-23,Fox Business,Moore,13
+2017-11-23,Fox Business,Others,20
+2017-11-23,Fox Business,Weinstein,0
+2017-11-23,Fox News,Moore,52
+2017-11-23,Fox News,Others,92
+2017-11-23,Fox News,Weinstein,11
+2017-11-23,MSNBC,Moore,231
+2017-11-23,MSNBC,Others,32
+2017-11-23,MSNBC,Weinstein,1
+2017-11-24,Bloomberg,Moore,0
+2017-11-24,Bloomberg,Others,0
+2017-11-24,Bloomberg,Weinstein,0
+2017-11-24,CNBC,Moore,2
+2017-11-24,CNBC,Others,0
+2017-11-24,CNBC,Weinstein,1
+2017-11-24,CNN,Moore,56
+2017-11-24,CNN,Others,47
+2017-11-24,CNN,Weinstein,3
+2017-11-24,Fox Business,Moore,18
+2017-11-24,Fox Business,Others,27
+2017-11-24,Fox Business,Weinstein,3
+2017-11-24,Fox News,Moore,22
+2017-11-24,Fox News,Others,45
+2017-11-24,Fox News,Weinstein,0
+2017-11-24,MSNBC,Moore,69
+2017-11-24,MSNBC,Others,30
+2017-11-24,MSNBC,Weinstein,10
+2017-11-25,Bloomberg,Moore,0
+2017-11-25,Bloomberg,Others,0
+2017-11-25,Bloomberg,Weinstein,1
+2017-11-25,CNBC,Moore,0
+2017-11-25,CNBC,Others,0
+2017-11-25,CNBC,Weinstein,0
+2017-11-25,CNN,Moore,56
+2017-11-25,CNN,Others,11
+2017-11-25,CNN,Weinstein,2
+2017-11-25,Fox Business,Moore,12
+2017-11-25,Fox Business,Others,32
+2017-11-25,Fox Business,Weinstein,0
+2017-11-25,Fox News,Moore,13
+2017-11-25,Fox News,Others,49
+2017-11-25,Fox News,Weinstein,10
+2017-11-25,MSNBC,Moore,111
+2017-11-25,MSNBC,Others,20
+2017-11-25,MSNBC,Weinstein,0
+2017-11-26,Bloomberg,Moore,0
+2017-11-26,Bloomberg,Others,0
+2017-11-26,Bloomberg,Weinstein,1
+2017-11-26,CNBC,Moore,0
+2017-11-26,CNBC,Others,0
+2017-11-26,CNBC,Weinstein,0
+2017-11-26,CNN,Moore,68
+2017-11-26,CNN,Others,23
+2017-11-26,CNN,Weinstein,4
+2017-11-26,Fox Business,Moore,2
+2017-11-26,Fox Business,Others,1
+2017-11-26,Fox Business,Weinstein,0
+2017-11-26,Fox News,Moore,51
+2017-11-26,Fox News,Others,86
+2017-11-26,Fox News,Weinstein,6
+2017-11-26,MSNBC,Moore,83
+2017-11-26,MSNBC,Others,73
+2017-11-26,MSNBC,Weinstein,3
+2017-11-27,Bloomberg,Moore,7
+2017-11-27,Bloomberg,Others,4
+2017-11-27,Bloomberg,Weinstein,0
+2017-11-27,CNBC,Moore,2
+2017-11-27,CNBC,Others,1
+2017-11-27,CNBC,Weinstein,2
+2017-11-27,CNN,Moore,161
+2017-11-27,CNN,Others,106
+2017-11-27,CNN,Weinstein,10
+2017-11-27,Fox Business,Moore,31
+2017-11-27,Fox Business,Others,99
+2017-11-27,Fox Business,Weinstein,2
+2017-11-27,Fox News,Moore,83
+2017-11-27,Fox News,Others,161
+2017-11-27,Fox News,Weinstein,5
+2017-11-27,MSNBC,Moore,127
+2017-11-27,MSNBC,Others,149
+2017-11-27,MSNBC,Weinstein,9
+2017-11-28,Bloomberg,Moore,0
+2017-11-28,Bloomberg,Others,0
+2017-11-28,Bloomberg,Weinstein,0
+2017-11-28,CNBC,Moore,0
+2017-11-28,CNBC,Others,0
+2017-11-28,CNBC,Weinstein,0
+2017-11-28,CNN,Moore,65
+2017-11-28,CNN,Others,17
+2017-11-28,CNN,Weinstein,1
+2017-11-28,Fox Business,Moore,15
+2017-11-28,Fox Business,Others,54
+2017-11-28,Fox Business,Weinstein,1
+2017-11-28,Fox News,Moore,19
+2017-11-28,Fox News,Others,88
+2017-11-28,Fox News,Weinstein,9
+2017-11-28,MSNBC,Moore,159
+2017-11-28,MSNBC,Others,37
+2017-11-28,MSNBC,Weinstein,0
+2017-11-29,Bloomberg,Moore,0
+2017-11-29,Bloomberg,Others,13
+2017-11-29,Bloomberg,Weinstein,0
+2017-11-29,CNBC,Moore,0
+2017-11-29,CNBC,Others,28
+2017-11-29,CNBC,Weinstein,4
+2017-11-29,CNN,Moore,15
+2017-11-29,CNN,Others,99
+2017-11-29,CNN,Weinstein,10
+2017-11-29,Fox Business,Moore,26
+2017-11-29,Fox Business,Others,99
+2017-11-29,Fox Business,Weinstein,8
+2017-11-29,Fox News,Moore,8
+2017-11-29,Fox News,Others,121
+2017-11-29,Fox News,Weinstein,4
+2017-11-29,MSNBC,Moore,71
+2017-11-29,MSNBC,Others,146
+2017-11-29,MSNBC,Weinstein,9
+2017-11-30,Bloomberg,Moore,0
+2017-11-30,Bloomberg,Others,14
+2017-11-30,Bloomberg,Weinstein,2
+2017-11-30,CNBC,Moore,1
+2017-11-30,CNBC,Others,11
+2017-11-30,CNBC,Weinstein,0
+2017-11-30,CNN,Moore,15
+2017-11-30,CNN,Others,170
+2017-11-30,CNN,Weinstein,10
+2017-11-30,Fox Business,Moore,29
+2017-11-30,Fox Business,Others,153
+2017-11-30,Fox Business,Weinstein,5
+2017-11-30,Fox News,Moore,30
+2017-11-30,Fox News,Others,234
+2017-11-30,Fox News,Weinstein,29
+2017-11-30,MSNBC,Moore,25
+2017-11-30,MSNBC,Others,151
+2017-11-30,MSNBC,Weinstein,6
+2017-12-01,Bloomberg,Moore,0
+2017-12-01,Bloomberg,Others,7
+2017-12-01,Bloomberg,Weinstein,0
+2017-12-01,CNBC,Moore,0
+2017-12-01,CNBC,Others,0
+2017-12-01,CNBC,Weinstein,0
+2017-12-01,CNN,Moore,35
+2017-12-01,CNN,Others,31
+2017-12-01,CNN,Weinstein,1
+2017-12-01,Fox Business,Moore,8
+2017-12-01,Fox Business,Others,71
+2017-12-01,Fox Business,Weinstein,8
+2017-12-01,Fox News,Moore,2
+2017-12-01,Fox News,Others,85
+2017-12-01,Fox News,Weinstein,2
+2017-12-01,MSNBC,Moore,26
+2017-12-01,MSNBC,Others,17
+2017-12-01,MSNBC,Weinstein,0
+2017-12-02,Bloomberg,Moore,0
+2017-12-02,Bloomberg,Others,4
+2017-12-02,Bloomberg,Weinstein,4
+2017-12-02,CNBC,Moore,0
+2017-12-02,CNBC,Others,0
+2017-12-02,CNBC,Weinstein,0
+2017-12-02,CNN,Moore,10
+2017-12-02,CNN,Others,1
+2017-12-02,CNN,Weinstein,1
+2017-12-02,Fox Business,Moore,4
+2017-12-02,Fox Business,Others,13
+2017-12-02,Fox Business,Weinstein,0
+2017-12-02,Fox News,Moore,4
+2017-12-02,Fox News,Others,55
+2017-12-02,Fox News,Weinstein,1
+2017-12-02,MSNBC,Moore,57
+2017-12-02,MSNBC,Others,1
+2017-12-02,MSNBC,Weinstein,0
+2017-12-03,Bloomberg,Moore,0
+2017-12-03,Bloomberg,Others,4
+2017-12-03,Bloomberg,Weinstein,0
+2017-12-03,CNBC,Moore,0
+2017-12-03,CNBC,Others,0
+2017-12-03,CNBC,Weinstein,0
+2017-12-03,CNN,Moore,32
+2017-12-03,CNN,Others,4
+2017-12-03,CNN,Weinstein,2
+2017-12-03,Fox Business,Moore,0
+2017-12-03,Fox Business,Others,15
+2017-12-03,Fox Business,Weinstein,0
+2017-12-03,Fox News,Moore,23
+2017-12-03,Fox News,Others,40
+2017-12-03,Fox News,Weinstein,4
+2017-12-03,MSNBC,Moore,27
+2017-12-03,MSNBC,Others,19
+2017-12-03,MSNBC,Weinstein,3
+2017-12-04,Bloomberg,Moore,10
+2017-12-04,Bloomberg,Others,0
+2017-12-04,Bloomberg,Weinstein,0
+2017-12-04,CNBC,Moore,0
+2017-12-04,CNBC,Others,3
+2017-12-04,CNBC,Weinstein,0
+2017-12-04,CNN,Moore,92
+2017-12-04,CNN,Others,16
+2017-12-04,CNN,Weinstein,0
+2017-12-04,Fox Business,Moore,20
+2017-12-04,Fox Business,Others,29
+2017-12-04,Fox Business,Weinstein,0
+2017-12-04,Fox News,Moore,56
+2017-12-04,Fox News,Others,10
+2017-12-04,Fox News,Weinstein,1
+2017-12-04,MSNBC,Moore,71
+2017-12-04,MSNBC,Others,18
+2017-12-04,MSNBC,Weinstein,4
+2017-12-05,Bloomberg,Moore,5
+2017-12-05,Bloomberg,Others,4
+2017-12-05,Bloomberg,Weinstein,1
+2017-12-05,CNBC,Moore,1
+2017-12-05,CNBC,Others,15
+2017-12-05,CNBC,Weinstein,0
+2017-12-05,CNN,Moore,189
+2017-12-05,CNN,Others,50
+2017-12-05,CNN,Weinstein,4
+2017-12-05,Fox Business,Moore,56
+2017-12-05,Fox Business,Others,31
+2017-12-05,Fox Business,Weinstein,0
+2017-12-05,Fox News,Moore,73
+2017-12-05,Fox News,Others,53
+2017-12-05,Fox News,Weinstein,1
+2017-12-05,MSNBC,Moore,266
+2017-12-05,MSNBC,Others,50
+2017-12-05,MSNBC,Weinstein,1
+2017-12-06,Bloomberg,Moore,4
+2017-12-06,Bloomberg,Others,1
+2017-12-06,Bloomberg,Weinstein,3
+2017-12-06,CNBC,Moore,7
+2017-12-06,CNBC,Others,10
+2017-12-06,CNBC,Weinstein,4
+2017-12-06,CNN,Moore,244
+2017-12-06,CNN,Others,71
+2017-12-06,CNN,Weinstein,2
+2017-12-06,Fox Business,Moore,50
+2017-12-06,Fox Business,Others,58
+2017-12-06,Fox Business,Weinstein,6
+2017-12-06,Fox News,Moore,73
+2017-12-06,Fox News,Others,103
+2017-12-06,Fox News,Weinstein,6
+2017-12-06,MSNBC,Moore,196
+2017-12-06,MSNBC,Others,51
+2017-12-06,MSNBC,Weinstein,7
+2017-12-07,Bloomberg,Moore,4
+2017-12-07,Bloomberg,Others,20
+2017-12-07,Bloomberg,Weinstein,2
+2017-12-07,CNBC,Moore,2
+2017-12-07,CNBC,Others,5
+2017-12-07,CNBC,Weinstein,4
+2017-12-07,CNN,Moore,118
+2017-12-07,CNN,Others,113
+2017-12-07,CNN,Weinstein,2
+2017-12-07,Fox Business,Moore,75
+2017-12-07,Fox Business,Others,95
+2017-12-07,Fox Business,Weinstein,1
+2017-12-07,Fox News,Moore,72
+2017-12-07,Fox News,Others,137
+2017-12-07,Fox News,Weinstein,5
+2017-12-07,MSNBC,Moore,153
+2017-12-07,MSNBC,Others,194
+2017-12-07,MSNBC,Weinstein,4
